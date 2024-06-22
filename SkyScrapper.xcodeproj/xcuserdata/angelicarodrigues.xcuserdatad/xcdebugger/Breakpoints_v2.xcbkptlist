@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "35E85501-4D7F-457B-833D-4F4670C3E062"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "338BBF06-4558-4FC6-A0CD-BE8D7D864B89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapper/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "createRequest(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "338BBF06-4558-4FC6-A0CD-BE8D7D864B89 - ff09f2a19d94074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "3060">
+               </Location>
+               <Location
+                  uuid = "338BBF06-4558-4FC6-A0CD-BE8D7D864B89 - ff09f2a19d94074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "3556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "535C0532-B624-43B5-91B6-036804A18C62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapper/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "createRequest(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "535C0532-B624-43B5-91B6-036804A18C62 - ff09f2a19d947ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "3216">
+               </Location>
+               <Location
+                  uuid = "535C0532-B624-43B5-91B6-036804A18C62 - ff09f2a19d947c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "5092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35826A29-1CE2-4546-8452-7F7723E0CF1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapper/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "createRequest(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35826A29-1CE2-4546-8452-7F7723E0CF1D - ff09f2a19d9474c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "3492">
+               </Location>
+               <Location
+                  uuid = "35826A29-1CE2-4546-8452-7F7723E0CF1D - ff09f2a19d9474c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "3932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F6EFEF6-A620-40C6-BBD8-718AC1B6E080"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapper/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "createRequest(endPoint:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapper/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "createRequest(endPoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604 - ff09f2a19d94301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604 - ff09f2a19d94301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "5428">
+               </Location>
+               <Location
+                  uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604 - ff09f2a19d94301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "4772">
+               </Location>
+               <Location
+                  uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604 - ff09f2a19d94301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "4680">
+               </Location>
+               <Location
+                  uuid = "D1650D43-73C2-4C01-B755-550EE7C0C604 - ff09f2a19d94301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapper.Networkable.createRequest(endPoint: SkyScrapper.EndPoint) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "SkyScrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapper/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BADB5E2D-A966-4A17-A64D-9E6C6DCC2128"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "searchFlightsRequest(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BADB5E2D-A966-4A17-A64D-9E6C6DCC2128 - 3c0ccbf06cd0e0b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "BADB5E2D-A966-4A17-A64D-9E6C6DCC2128 - 3c0ccbf06cd0e0b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F969FE6D-6D28-4D11-9AE5-242114868D30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "searchFlightsRequest(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F969FE6D-6D28-4D11-9AE5-242114868D30 - 3c0ccbf06cd0e07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F969FE6D-6D28-4D11-9AE5-242114868D30 - 3c0ccbf06cd0e07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5734982C-23F8-4B1A-B93D-0252D27A62BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "searchFlightsRequest(parameters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5734982C-23F8-4B1A-B93D-0252D27A62BD - 3c0ccbf06cd0e115"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "2272">
+               </Location>
+               <Location
+                  uuid = "5734982C-23F8-4B1A-B93D-0252D27A62BD - 3c0ccbf06cd0e0f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SkyScrapperTests.MockSerpApiManager.searchFlightsRequest(parameters: SkyScrapper.SearchFlightsParameters) async -&gt; (data: Swift.Optional&lt;SkyScrapper.FlightsModel&gt;, error: Swift.Optional&lt;SkyScrapper.NetworkError&gt;)"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846C91B4-3ED1-47A0-8AAF-8527705908BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadMockData(for:ofType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "846C91B4-3ED1-47A0-8AAF-8527705908BA - 9b7066aa88b2c18e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "846C91B4-3ED1-47A0-8AAF-8527705908BA - 9b7066aa88b2c18e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "846C91B4-3ED1-47A0-8AAF-8527705908BA - 9b7066aa88b2c1a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC95250F-4F34-4455-B512-48B163FA1948"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loadMockData(for:ofType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC95250F-4F34-4455-B512-48B163FA1948 - 9b7066aa88b2c0eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "EC95250F-4F34-4455-B512-48B163FA1948 - 9b7066aa88b2c0eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "EC95250F-4F34-4455-B512-48B163FA1948 - 9b7066aa88b2c00a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6209EAAF-FAC0-4DC1-B33B-B171AB896E63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "loadMockData(for:ofType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6209EAAF-FAC0-4DC1-B33B-B171AB896E63 - 9b7066aa88b2c335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "6209EAAF-FAC0-4DC1-B33B-B171AB896E63 - 9b7066aa88b2c335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2472">
+               </Location>
+               <Location
+                  uuid = "6209EAAF-FAC0-4DC1-B33B-B171AB896E63 - 9b7066aa88b2c354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BCA71E2-D0D3-47E2-AF39-4F0004F0CD6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadMockData(for:ofType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BCA71E2-D0D3-47E2-AF39-4F0004F0CD6A - 9b7066aa88b2c096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "3BCA71E2-D0D3-47E2-AF39-4F0004F0CD6A - 9b7066aa88b2c096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "3BCA71E2-D0D3-47E2-AF39-4F0004F0CD6A - 9b7066aa88b2c0a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyScrapperTests.MockSerpApiManager.loadMockData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(for: Swift.String, ofType: &#x3c4;_0_0.Type) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SkyScrapperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelicarodrigues/Desktop/SkyScrapper/SkyScrapperTests/ViewModelTests/MockSerpApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

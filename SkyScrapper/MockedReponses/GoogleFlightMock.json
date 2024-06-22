@@ -1,0 +1,1320 @@
+{
+  "search_metadata": {
+    "id": "66677a63b7b1cc5658a8a083",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/802b872e6f927a73/66677a63b7b1cc5658a8a083.json",
+    "created_at": "2024-06-10 22:12:51 UTC",
+    "processed_at": "2024-06-10 22:12:51 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&q=Flights+to+AUS+from+CDG+on+2024-08-11+through+2024-09-11",
+    "raw_html_file": "https://serpapi.com/searches/802b872e6f927a73/66677a63b7b1cc5658a8a083.html",
+    "prettify_html_file": "https://serpapi.com/searches/802b872e6f927a73/66677a63b7b1cc5658a8a083.prettify",
+    "total_time_taken": 6.05
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "departure_id": "CDG",
+    "arrival_id": "AUS",
+    "outbound_date": "2024-08-11",
+    "return_date": "2024-09-11"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 15:40"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 19:35"
+          },
+          "duration": 595,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 85",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 500 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 23:13"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-12 00:36"
+          },
+          "duration": 143,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1335",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 134 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 218,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 956,
+      "carbon_emissions": {
+        "this_flight": 635000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -11
+      },
+      "price": 1083,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3RFVERnMWZFUk1NVE16TlJvTENPSE5CaEFDR2dOVlUwUTRISERoelFZPSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkFUTCIsbnVsbCwiREwiLCI4NSJdLFsiQVRMIiwiMjAyNC0wOC0xMSIsIkFVUyIsbnVsbCwiREwiLCIxMzM1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 11:00"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2024-08-11 14:00"
+          },
+          "duration": 540,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 229",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 440 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2024-08-11 15:59"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 18:00"
+          },
+          "duration": 181,
+          "airplane": "Airbus A320",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1612",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 172 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 119,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 840,
+      "carbon_emissions": {
+        "this_flight": 613000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -14
+      },
+      "price": 1148,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3hFVERJeU9YeEVUREUyTVRJYUN3aWJnQWNRQWhvRFZWTkVPQnh3bTRBSCIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkRUVyIsbnVsbCwiREwiLCIyMjkiXSxbIkRUVyIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIkRMIiwiMTYxMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 15:40"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 19:35"
+          },
+          "duration": 595,
+          "airplane": "Airbus A330",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 85",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 500 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 21:49"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 23:10"
+          },
+          "duration": 141,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1081",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 134 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 134,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 870,
+      "carbon_emissions": {
+        "this_flight": 635000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -11
+      },
+      "price": 1148,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3RFVERnMWZFUk1NVEE0TVJvTENKdUFCeEFDR2dOVlUwUTRISENiZ0FjPSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkFUTCIsbnVsbCwiREwiLCI4NSJdLFsiQVRMIiwiMjAyNC0wOC0xMSIsIkFVUyIsbnVsbCwiREwiLCIxMDgxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 16:10"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2024-08-11 18:40"
+          },
+          "duration": 510,
+          "airplane": "Airbus A350",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 378",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 347 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2024-08-11 20:55"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 22:53"
+          },
+          "duration": 178,
+          "airplane": "Airbus A319",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2578",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 187 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 135,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 823,
+      "carbon_emissions": {
+        "this_flight": 535000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -25
+      },
+      "price": 1351,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": [
+        "1 checked bag up to 23 kg included",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3hCUmpNM09IeEVUREkxTnpnYUN3aTJud2dRQWhvRFZWTkVPQnh3dHA4SSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkRUVyIsbnVsbCwiQUYiLCIzNzgiXSxbIkRUVyIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIkRMIiwiMjU3OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 12:25"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2024-08-11 14:50"
+          },
+          "duration": 505,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 914",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 516 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2024-08-11 17:55"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 20:20"
+          },
+          "duration": 205,
+          "airplane": "Airbus A319",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1858",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 215 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 185,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        }
+      ],
+      "total_duration": 895,
+      "carbon_emissions": {
+        "this_flight": 732000,
+        "typical_for_this_route": 713000,
+        "difference_percent": 3
+      },
+      "price": 1478,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3hWUVRreE5IeFZRVEU0TlRnYUN3aXhnZ2tRQWhvRFZWTkVPQnh3c1lJSiIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIklBRCIsbnVsbCwiVUEiLCI5MTQiXSxbIklBRCIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIlVBIiwiMTg1OCJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 11:50"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 15:40"
+          },
+          "duration": 590,
+          "airplane": "Boeing 767",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 89",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 427 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2024-08-11 17:25"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 18:53"
+          },
+          "duration": 148,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1060",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 134 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 105,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 843,
+      "carbon_emissions": {
+        "this_flight": 562000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -21
+      },
+      "price": 1352,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3RFVERnNWZFUk1NVEEyTUJvTENQK2ZDQkFDR2dOVlUwUTRISEQvbndnPSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkFUTCIsbnVsbCwiREwiLCI4OSJdLFsiQVRMIiwiMjAyNC0wOC0xMSIsIkFVUyIsbnVsbCwiREwiLCIxMDYwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 13:00"
+          },
+          "arrival_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2024-08-11 15:15"
+          },
+          "duration": 495,
+          "airplane": "Boeing 777",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 873",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 489 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2024-08-11 18:20"
+          },
+          "arrival_airport": {
+            "name": "George Bush Intercontinental Airport",
+            "id": "IAH",
+            "time": "2024-08-11 20:46"
+          },
+          "duration": 206,
+          "airplane": "Airbus A220-300 Passenger",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 595",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 166 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "George Bush Intercontinental Airport",
+            "id": "IAH",
+            "time": "2024-08-11 21:57"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 22:56"
+          },
+          "duration": 59,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1179",
+          "ticket_also_sold_by": [
+            "Air Canada"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 50 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 185,
+          "name": "Toronto Pearson International Airport",
+          "id": "YYZ"
+        },
+        {
+          "duration": 71,
+          "name": "George Bush Intercontinental Airport",
+          "id": "IAH"
+        }
+      ],
+      "total_duration": 1016,
+      "carbon_emissions": {
+        "this_flight": 707000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -1
+      },
+      "price": 1484,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFaEpCUXpnM00zeEJRelU1Tlh4VlFURXhOemthQ3dpUmh3a1FBaG9EVlZORU9CeHdrWWNKIixbWyJDREciLCIyMDI0LTA4LTExIiwiWVlaIixudWxsLCJBQyIsIjg3MyJdLFsiWVlaIiwiMjAyNC0wOC0xMSIsIklBSCIsbnVsbCwiQUMiLCI1OTUiXSxbIklBSCIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIlVBIiwiMTE3OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 10:30"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-08-11 11:45"
+          },
+          "duration": 75,
+          "airplane": "Airbus A320",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 1029",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Carbon emissions estimate: 61 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2024-08-11 13:45"
+          },
+          "arrival_airport": {
+            "name": "Seattle–Tacoma International Airport",
+            "id": "SEA",
+            "time": "2024-08-11 15:00"
+          },
+          "duration": 615,
+          "airplane": "Airbus A330-900neo",
+          "airline": "Condor",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DE.png",
+          "travel_class": "Economy",
+          "flight_number": "DE 2028",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 466 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Seattle–Tacoma International Airport",
+            "id": "SEA",
+            "time": "2024-08-11 17:50"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 23:59"
+          },
+          "duration": 249,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 594",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 241 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 120,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        },
+        {
+          "duration": 170,
+          "name": "Seattle–Tacoma International Airport",
+          "id": "SEA"
+        }
+      ],
+      "total_duration": 1229,
+      "carbon_emissions": {
+        "this_flight": 769000,
+        "typical_for_this_route": 713000,
+        "difference_percent": 8
+      },
+      "price": 1497,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": [
+        "1 checked bag included",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFaE5NU0RFd01qbDhSRVV5TURJNGZFRlROVGswR2dzSTg1QUpFQUlhQTFWVFJEZ2NjUE9RQ1E9PSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkZSQSIsbnVsbCwiTEgiLCIxMDI5Il0sWyJGUkEiLCIyMDI0LTA4LTExIiwiU0VBIixudWxsLCJERSIsIjIwMjgiXSxbIlNFQSIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIkFTIiwiNTk0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 13:55"
+          },
+          "arrival_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2024-08-11 16:15"
+          },
+          "duration": 500,
+          "airplane": "Boeing 787",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 755",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 469 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2024-08-11 20:15"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 23:00"
+          },
+          "duration": 225,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1394",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 195 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 240,
+          "name": "Philadelphia International Airport",
+          "id": "PHL"
+        }
+      ],
+      "total_duration": 965,
+      "carbon_emissions": {
+        "this_flight": 664000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -7
+      },
+      "price": 1522,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3hCUVRjMU5YeEJRVEV6T1RRYUN3anVwQWtRQWhvRFZWTkVPQnh3N3FRSiIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIlBITCIsbnVsbCwiQUEiLCI3NTUiXSxbIlBITCIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIkFBIiwiMTM5NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 10:30"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2024-08-11 13:45"
+          },
+          "duration": 555,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 787",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 542 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2024-08-11 15:20"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 17:09"
+          },
+          "duration": 169,
+          "airplane": "Airbus A320",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 798",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 171 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 95,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        }
+      ],
+      "total_duration": 819,
+      "carbon_emissions": {
+        "this_flight": 714000,
+        "typical_for_this_route": 713000,
+        "difference_percent": 0
+      },
+      "price": 1845,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3RCUVRjNE4zeEJRVGM1T0JvTENKT2hDeEFDR2dOVlUwUTRISENUb1FzPSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkNMVCIsbnVsbCwiQUEiLCI3ODciXSxbIkNMVCIsIjIwMjQtMDgtMTEiLCJBVVMiLG51bGwsIkFBIiwiNzk4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 11:25"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-08-11 14:50"
+          },
+          "duration": 625,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 49",
+          "ticket_also_sold_by": [
+            "British Airways"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 630 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-08-11 17:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 18:09"
+          },
+          "duration": 69,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2289",
+          "ticket_also_sold_by": [
+            "British Airways"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 57 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 130,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 824,
+      "carbon_emissions": {
+        "this_flight": 688000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -4
+      },
+      "price": 1845,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3RCUVRRNWZFRkJNakk0T1JvTENKT2hDeEFDR2dOVlUwUTRISENUb1FzPSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkRGVyIsbnVsbCwiQUEiLCI0OSJdLFsiREZXIiwiMjAyNC0wOC0xMSIsIkFVUyIsbnVsbCwiQUEiLCIyMjg5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2024-08-11 11:25"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-08-11 14:50"
+          },
+          "duration": 625,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 49",
+          "ticket_also_sold_by": [
+            "Iberia",
+            "British Airways"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 630 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2024-08-11 17:55"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2024-08-11 18:59"
+          },
+          "duration": 64,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 789",
+          "ticket_also_sold_by": [
+            "Iberia",
+            "British Airways"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 57 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 185,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 874,
+      "carbon_emissions": {
+        "this_flight": 688000,
+        "typical_for_this_route": 713000,
+        "difference_percent": -4
+      },
+      "price": 1845,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "Ticket changes for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJWDFaRmREZ3dSM2hoZVZGQlFrSXdSSGRDUnkwdExTMHRMUzB0YjJ0bWRURTRPVUZCUVVGQlIxcHVaVzFWUTNSMWNIZEJFZ3BCUVRRNWZFRkJOemc1R2dzSWs2RUxFQUlhQTFWVFJEZ2NjSk9oQ3c9PSIsW1siQ0RHIiwiMjAyNC0wOC0xMSIsIkRGVyIsbnVsbCwiQUEiLCI0OSJdLFsiREZXIiwiMjAyNC0wOC0xMSIsIkFVUyIsbnVsbCwiQUEiLCI3ODkiXV1d"
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 1083,
+    "price_level": "typical",
+    "typical_price_range": [
+      680,
+      1250
+    ],
+    "price_history": [
+      [
+        1712700000,
+        1575
+      ],
+      [
+        1712786400,
+        1575
+      ],
+      [
+        1712872800,
+        1558
+      ],
+      [
+        1712959200,
+        1502
+      ],
+      [
+        1713045600,
+        1601
+      ],
+      [
+        1713132000,
+        1601
+      ],
+      [
+        1713218400,
+        1598
+      ],
+      [
+        1713304800,
+        1573
+      ],
+      [
+        1713391200,
+        1572
+      ],
+      [
+        1713477600,
+        1580
+      ],
+      [
+        1713564000,
+        1576
+      ],
+      [
+        1713650400,
+        1633
+      ],
+      [
+        1713736800,
+        1633
+      ],
+      [
+        1713823200,
+        1631
+      ],
+      [
+        1713909600,
+        1630
+      ],
+      [
+        1713996000,
+        1638
+      ],
+      [
+        1714082400,
+        1584
+      ],
+      [
+        1714168800,
+        1588
+      ],
+      [
+        1714255200,
+        1584
+      ],
+      [
+        1714341600,
+        1584
+      ],
+      [
+        1714428000,
+        1585
+      ],
+      [
+        1714514400,
+        1586
+      ],
+      [
+        1714600800,
+        1472
+      ],
+      [
+        1714687200,
+        1576
+      ],
+      [
+        1714773600,
+        1578
+      ],
+      [
+        1714860000,
+        1584
+      ],
+      [
+        1714946400,
+        1584
+      ],
+      [
+        1715032800,
+        1582
+      ],
+      [
+        1715119200,
+        1508
+      ],
+      [
+        1715205600,
+        1506
+      ],
+      [
+        1715292000,
+        1505
+      ],
+      [
+        1715378400,
+        1510
+      ],
+      [
+        1715464800,
+        1511
+      ],
+      [
+        1715551200,
+        1511
+      ],
+      [
+        1715637600,
+        1508
+      ],
+      [
+        1715724000,
+        1512
+      ],
+      [
+        1715810400,
+        1515
+      ],
+      [
+        1715896800,
+        1579
+      ],
+      [
+        1715983200,
+        1381
+      ],
+      [
+        1716069600,
+        1384
+      ],
+      [
+        1716156000,
+        1384
+      ],
+      [
+        1716242400,
+        1380
+      ],
+      [
+        1716328800,
+        1379
+      ],
+      [
+        1716415200,
+        1375
+      ],
+      [
+        1716501600,
+        1374
+      ],
+      [
+        1716588000,
+        1379
+      ],
+      [
+        1716674400,
+        1432
+      ],
+      [
+        1716760800,
+        1432
+      ],
+      [
+        1716847200,
+        1434
+      ],
+      [
+        1716933600,
+        1380
+      ],
+      [
+        1717020000,
+        1373
+      ],
+      [
+        1717106400,
+        1376
+      ],
+      [
+        1717192800,
+        1379
+      ],
+      [
+        1717279200,
+        1379
+      ],
+      [
+        1717365600,
+        1378
+      ],
+      [
+        1717452000,
+        1385
+      ],
+      [
+        1717538400,
+        1437
+      ],
+      [
+        1717624800,
+        1435
+      ],
+      [
+        1717711200,
+        1514
+      ],
+      [
+        1717797600,
+        1504
+      ],
+      [
+        1717884000,
+        1502
+      ],
+      [
+        1718056800,
+        1083
+      ]
+    ]
+  }
+}

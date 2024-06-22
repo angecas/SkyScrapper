@@ -1,0 +1,3636 @@
+{
+  "search_metadata": {
+    "id": "666b6266f636ff891499481a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/831e61d863ba0917/666b6266f636ff891499481a.json",
+    "created_at": "2024-06-13 21:19:34 UTC",
+    "processed_at": "2024-06-13 21:19:34 UTC",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=us&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/831e61d863ba0917/666b6266f636ff891499481a.html",
+    "prettify_html_file": "https://serpapi.com/searches/831e61d863ba0917/666b6266f636ff891499481a.prettify",
+    "total_time_taken": 2.57
+  },
+  "search_parameters": {
+    "engine": "google_hotels",
+    "q": "Bali Resorts",
+    "gl": "us",
+    "hl": "en",
+    "currency": "USD",
+    "check_in_date": "2024-06-13",
+    "check_out_date": "2024-06-14",
+    "adults": 2,
+    "children": 0
+  },
+  "brands": [
+    {
+      "id": 33,
+      "name": "Accor Live Limitless",
+      "children": [
+        {
+          "id": 67,
+          "name": "Banyan Tree"
+        },
+        {
+          "id": 101,
+          "name": "Grand Mercure"
+        },
+        {
+          "id": 21,
+          "name": "Ibis"
+        },
+        {
+          "id": 103,
+          "name": "Ibis Styles"
+        },
+        {
+          "id": 91,
+          "name": "Mercure"
+        },
+        {
+          "id": 276,
+          "name": "Mövenpick"
+        },
+        {
+          "id": 47,
+          "name": "Novotel"
+        },
+        {
+          "id": 271,
+          "name": "Peppers"
+        },
+        {
+          "id": 90,
+          "name": "Pullman Hotels and Resorts"
+        },
+        {
+          "id": 268,
+          "name": "Raffles"
+        },
+        {
+          "id": 84,
+          "name": "Sofitel"
+        },
+        {
+          "id": 374,
+          "name": "Tribe"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Aston"
+    },
+    {
+      "id": 18,
+      "name": "Best Western International",
+      "children": [
+        {
+          "id": 155,
+          "name": "Best Western"
+        },
+        {
+          "id": 105,
+          "name": "Best Western Premier"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Favehotel"
+    },
+    {
+      "id": 289,
+      "name": "Four Seasons"
+    },
+    {
+      "id": 245,
+      "name": "Golden Tulip"
+    },
+    {
+      "id": 228,
+      "name": "Harper"
+    },
+    {
+      "id": 28,
+      "name": "Hilton Honors",
+      "children": [
+        {
+          "id": 7,
+          "name": "Conrad"
+        },
+        {
+          "id": 71,
+          "name": "Hilton Garden Inn"
+        },
+        {
+          "id": 54,
+          "name": "Hilton Hotels & Resorts"
+        },
+        {
+          "id": 294,
+          "name": "LXR"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Hoshino Resorts",
+      "children": [
+        {
+          "id": 198,
+          "name": "Hoshinoya"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Hotel NEO"
+    },
+    {
+      "id": 37,
+      "name": "Hyatt",
+      "children": [
+        {
+          "id": 347,
+          "name": "Alila"
+        },
+        {
+          "id": 116,
+          "name": "Andaz"
+        },
+        {
+          "id": 117,
+          "name": "Grand Hyatt"
+        },
+        {
+          "id": 122,
+          "name": "Hyatt Regency"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "IHG Hotels & Resorts",
+      "children": [
+        {
+          "id": 64,
+          "name": "Holiday Inn"
+        },
+        {
+          "id": 56,
+          "name": "Holiday Inn Express"
+        },
+        {
+          "id": 281,
+          "name": "Holiday Inn Resort"
+        },
+        {
+          "id": 87,
+          "name": "Hotel Indigo"
+        },
+        {
+          "id": 2,
+          "name": "InterContinental Hotels & Resorts"
+        },
+        {
+          "id": 127,
+          "name": "Kimpton Hotels & Restaurants"
+        },
+        {
+          "id": 297,
+          "name": "Regent"
+        },
+        {
+          "id": 389,
+          "name": "Six Senses"
+        },
+        {
+          "id": 298,
+          "name": "Voco"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "name": "Jumeirah Hotels and Resorts"
+    },
+    {
+      "id": 231,
+      "name": "Kamuela"
+    },
+    {
+      "id": 325,
+      "name": "Kempinski"
+    },
+    {
+      "id": 46,
+      "name": "Marriott Bonvoy",
+      "children": [
+        {
+          "id": 60,
+          "name": "Aloft Hotels"
+        },
+        {
+          "id": 59,
+          "name": "Autograph Collection"
+        },
+        {
+          "id": 258,
+          "name": "Bvlgari"
+        },
+        {
+          "id": 86,
+          "name": "Courtyard by Marriott"
+        },
+        {
+          "id": 134,
+          "name": "Element"
+        },
+        {
+          "id": 58,
+          "name": "Fairfield Inn by Marriott"
+        },
+        {
+          "id": 135,
+          "name": "Four Points by Sheraton"
+        },
+        {
+          "id": 72,
+          "name": "Le Méridien"
+        },
+        {
+          "id": 61,
+          "name": "Marriott Hotels & Resorts"
+        },
+        {
+          "id": 131,
+          "name": "Renaissance Hotels"
+        },
+        {
+          "id": 3,
+          "name": "Ritz-Carlton Hotel Company"
+        },
+        {
+          "id": 12,
+          "name": "Sheraton Hotels and Resorts"
+        },
+        {
+          "id": 136,
+          "name": "St. Regis"
+        },
+        {
+          "id": 143,
+          "name": "The Luxury Collection"
+        },
+        {
+          "id": 154,
+          "name": "Tribute Portfolio"
+        },
+        {
+          "id": 137,
+          "name": "W Hotels"
+        },
+        {
+          "id": 39,
+          "name": "Westin Hotels & Resorts"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Melia Hotels International",
+      "children": [
+        {
+          "id": 178,
+          "name": "Melia Hotels & Resorts"
+        },
+        {
+          "id": 180,
+          "name": "Sol by Melia"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "name": "OYO",
+      "children": [
+        {
+          "id": 99,
+          "name": "OYO Rooms"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Quest Hotel"
+    },
+    {
+      "id": 80,
+      "name": "Radisson Hotel Group",
+      "children": [
+        {
+          "id": 79,
+          "name": "Radisson Blu"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Wyndham Hotels & Resorts",
+      "children": [
+        {
+          "id": 50,
+          "name": "Ramada"
+        },
+        {
+          "id": 150,
+          "name": "Wyndham"
+        },
+        {
+          "id": 141,
+          "name": "Wyndham Garden"
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "type": "vacation rental",
+      "name": "Dewani Villa Resort - Deluxe King Room - Room Only",
+      "link": "https://www.bluepillow.com/search?p_id=589e00207c00cb10c8daf337&dest=bkng&cat=House&accomodationids=594392727c00cb0e6439c14c",
+      "gps_coordinates": {
+        "latitude": -8.665149688720703,
+        "longitude": 115.16085052490234
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$31",
+        "extracted_lowest": 31,
+        "before_taxes_fees": "$25",
+        "extracted_before_taxes_fees": 25
+      },
+      "total_rate": {
+        "lowest": "$31",
+        "extracted_lowest": 31,
+        "before_taxes_fees": "$25",
+        "extracted_before_taxes_fees": 25
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$31",
+            "extracted_lowest": 31,
+            "before_taxes_fees": "$25",
+            "extracted_before_taxes_fees": 25
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Ranya Regina Resto",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/o-HJQs6cXfquCRXLoeqy3iuEJBTqucTmPW3QYiQQ9yfAxFcgooKjjqMzPVuyGWB5SxCp3gDLBO8eLrFQxcLqrcT8aGAGb0Lqh1fY-nbn7dGgDxMlSNa38bpPBlmSEkKN4ylll6AUHS1THW06vsLymQICMdCOSg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/32665237.jpg?k=ac5410a0102f899769466b30aa5dc4cd5e0fadf2ecad86aef8e8f10e811b0fee&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/gGNSZnf1znR-xzET7_j2ycyjZgZOPuTm2I3k1t8b5-p6PrxWi9FCk-0BrpqjcG4QD07l7DkPtAc3H-SGeD3C7CneK1_zMHMPP8fdUuYWg-rlnODriJ6wn6nY1jUCepPhSyhgn5uYhA-TxjtNZLzEjNkt05uS8AM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/47744666.jpg?k=05078d0111d3de70db30ae7c29cae2e06913c4008a5e5c540942e984105ec624&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/81VbITBTk9gXYRWIkpWz9CqzhImP70Q_thrZYcH5Ruj5S4zyqBtQvHYxQZc2E5d5E9GE4JDQfuWgUm3faO4Ru4IVW5kZEQdxo2CqfpNlZUMh32JAZR76GepS_6WEpV_UGLKccFi1f4xIM9MV2QStST9_z1oExg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/32665603.jpg?k=4ddcfd0784633df25b014746fc3ded63ab43067b4700b154c0b0074447b32727&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/CRewlRnxhp7Ds9EjwJ2tQDtqsPcwgESdla8r6AouOGQjAlNVse3azBRCiSen3BoF1AafQzypQqXgW6zNjtkpwmaRfIEjmGcDWHp0SN4P0llvIZPQZYOQ4p4LnXNJ98Y8IecU3O9xbccv2VGoqYsu23-BQeY--d8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/32622741.jpg?k=5da614390ff331df41a2b05f415f0d69bb19fce6d80067cbec2019525d5aec2e&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/7EmcswvnnSv21L1YbQnxYyd0l9cnjL3mss0XTp_s622c7985tXWfWbihBWgcqgy4hCC3hIvAmkFE62RRkH48UH04B27UtsYEF7dOT3PIdA09d2GFaCHF3WH3CmDAgo5CRPH0xx-Uz_yrOefLs7IZCQtIu-70nP0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/32625298.jpg?k=730dea148d39572c3c59991c0b3935cf7cfb630330cf6da13dd685e037b0f6fd&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/UFXpnLV4SDqdONAVhRepW4Snt1IPnV8-3qYqeL8c6QaJ6uf1O1Z3Hn6ARrVG9_GE_2FGC_vQLawCPFx8TZhvGiiW7l8KV5DumT0xfGsp0X128tGYeGJGHYcDRL11xCr9VhnIjApv0TtY_Cf7IOcjx2aUBXLx7A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/181280886.jpg?k=7cc73aa373dd8fb75a5544cba10101eff3ec078912f1dda5e35a1accadc1d74f&o="
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/BUztAIFouo_oSRKpQsEfoLziQQZTTi1cu2TpzJj-H0khylJd3C5fwNCFWBKuLsJK1z3fnKtRtW5Qt5tleDNySzr8IzU9QMpHk5Tg0t3czT2GGon1_nQeacrcGAiYmPiCJUQFVy1P8XjA6bM4LAeAZSaV8i2NVYE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/181280651.jpg?k=bec94f6e50f0a9cfe8bfa9ecee22a222a3ad3443aad555f368813a663153f100&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/KnW_nuhEKaVsHGFt7aNv-jmDnUY7vzmS_TyI57R4FKO9Y_XtOR27S7JWIA4Dajt2EOQNWyeSZL4BvEY_qi6JLXS4zXVzp2sOI6B8hU_R22kARW4jB7Q6UDTkIuGxvzBVHgIxBCnGOCbg6ZJ1-3yHsoyff85rdQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/47520614.jpg?k=0c8dab90befc2b02ab0727526c9593653d41abc2f80f0c37868be7cd2ea78705&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/dMCLdGRSXblkDYFJTLx31mR20chUDlMfnLXht94PGvT7yKsuk6g0vUdQ6zAqy1wwHnJDgGkk54Ao1flet0LJcxRHCeKppwImSCuxCnlypj8mM8ZJR9_H_dAkpj9OgVlCtWuXH-ONT13t-hiMoVeJMRjXtsPPOMA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/47746271.jpg?k=1c30764737ea7245524bb52c4cb147c44e911289a6bc09e52546dcf3b5be3dd1&o="
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 160,
+      "location_rating": 3.9,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Crib",
+        "Kitchen",
+        "Outdoor pool",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "excluded_amenities": [
+        "No balcony",
+        "No beach access",
+        "Not kid-friendly",
+        "No elevator",
+        "No fireplace",
+        "No fitness center",
+        "No heating",
+        "No hot tub",
+        "No indoor pool",
+        "No ironing board",
+        "No microwave",
+        "No outdoor grill",
+        "No oven stove",
+        "No patio",
+        "Not pet-friendly",
+        "Not wheelchair accessible"
+      ],
+      "essential_info": [
+        "Entire house",
+        "Sleeps 2",
+        "1 bedroom",
+        "1 bathroom",
+        "1 bed"
+      ],
+      "property_token": "ChoQsrKM45zIjJrRARoNL2cvMTF2emJscXdfdBAC",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQsrKM45zIjJrRARoNL2cvMTF2emJscXdfdBAC&q=Bali+Resorts"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Segara Camp Kintamani",
+      "gps_coordinates": {
+        "latitude": -8.234567642211914,
+        "longitude": 115.40365600585938
+      },
+      "check_in_time": "1:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$27",
+        "extracted_lowest": 27,
+        "before_taxes_fees": "$23",
+        "extracted_before_taxes_fees": 23
+      },
+      "total_rate": {
+        "lowest": "$27",
+        "extracted_lowest": 27,
+        "before_taxes_fees": "$23",
+        "extracted_before_taxes_fees": 23
+      },
+      "prices": [
+        {
+          "source": "Tiket.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/be7f980c-6153-4e5f-a4f8-03adb19764e9.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$27",
+            "extracted_lowest": 27,
+            "before_taxes_fees": "$23",
+            "extracted_before_taxes_fees": 23
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "2 hr 8 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung @ Pondok"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/F6lHAYIyCOzcUE82y4yQFZq-ChWp9KEbdvishnC97vkxQNfE0a6egQfrKCtbGWVYZn26-gFGw0Jy-BRzLnZHEnAXX65wgYAPlvqZjBPm7uWsXPQiHZdNlKqey4z7HsTgUBQnitUPbxX9_LbAFjcoJsGJCf6ygWY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Zn4eFsyQxz30cPBrWFqlp4i2Y-SX9QZqfmCHrF6rljamfHFFQ1Z7cKU3tejF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zZvCZQ3nG9m-EOZqmY2lo7LvhO30Ezy-irqKVhaEq_88O59snRYWZEs_1XtuKbfAZiFBNaAyCIWvY-eZE9Rgh64AZ_KQd1YCJbeih8ihxa3eenjGURoOsP"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/8Yt-1t0IMCAGwVhn8jUT9HMTBflcvI5tyEklY1kBhBuGK7cJmGq36NEK-HwrCtv-EJRNWvjYVuVWi8rX9ILHLFf_B4sFOCKlxa62S2nwNmaeo1cC5vX6gJ5LbCq2mmW0cdLIBe66hcvR0plBsggJNLaAug8wGw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/09/28/06d0995e-c276-4523-a6d3-be25d741f63a-1664350827828-e61487ee398e5af6910abf3d823adf1f.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/hZHPxg2uO0Qj-5h433wSeAqnSh7TA9WQv07t62DH3GKjZQYGL8d_4uazxpd5s9skFuV7Ye83O79kcgq9P0T9aYvbK9_FNraN32KLSy8lL4Jn3xt1swEjY8gR8Rq8iLCqO8_7BPG4PsM38KRib0WZ24Oo1z6AqYg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/09/28/5069e0fc-7be6-4018-9fca-cff34071ec1f-1664350834565-3f2f7148068d3b0f6de29ef024301a80.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/zrwZsMRqzFS2ZRM-u__bq4FYbV0jfA5TKygdpRrDbVHcK55Ju9ZN9tVsqTEjAurw30GwOs0ZRBOoDSYXTrP2qBL4wFh-KZyfuS8cCZV4-o9Aaj_xLZFZeCx_7NTXcAprsy8EPdC9hgqXDBK49vcjZSd154tiFtQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/07/21/e4495a36-19f2-4c6d-a410-e5a1b057b209-1658391936044-d9b2c84e31c2c09f916a3f1df284ad9c.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/WAh2aOgMHwf27pAgDk7Oi2fTrealydUnolhT_fXKFnkoIGrzqy5uIjP1dH53jsqodo6HXnymTli6N4Sj8rrIWvJpZ4NnEaTnZ0n-O3u0J2VHJ3xugaXOML7ZYVINM9G35C6AStkoEEeZP3eE0N0v7dE0Qo7FFA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/03/06/c334c459-0776-4bcc-9758-1e972bda50b2-1678085454435-b86cb866c76d9da6860beb039b476c7f.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/SKnTTbIWxhZUP4S1S2N51YG11YQm_DHbaOfUMCgVd_auUaD6Rw204Bm7Gk0rxpPMCBhDIIFanNs2RieUvpZpCoDdS8Tgo8WxK4YOnyn2m1ll7AMhkg_B4p-EX2EHNjg4iY7hhIPBRFA7lS7xQfaxQzsTZZXl5_M=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/07/21/f4996730-4c17-45fc-99b0-8215958e1578-1658391935781-c686da23a13cb92112465facd66eac55.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/5iqbwSEF2LpcVJI3SNPgxL8ZuAPu3sJQbDqKzajWF0hyY-8SIXDHmeDUw_3Fcp90NOPAthr3vuDA2k9pwxSi5hNw7bvn-plaZaGY5mEprGaX6Gt4TCD9dRQxShadEkZtqCmDwUxC9DWM_A5X4abfSiArPRiSNck=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZiKeljjh0tXp_HA-DSoEb0THChimPAIjygkvLAY76kJaNQjBKp4jiF37BKTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zZvCZQ3nG9m-EOZqmY2lo7LvhO30Ezy-irqKVhaEq_88O59snRYWZEs_1XtuKbfAc4A0toADemf-cpU5E9Rgh64AZ_KQd1YCIQsdzs8v2HiyQgKwDj3KSr"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/EXwf9y1_MufNmR3MBzqY0S0eHmZGXS0PfCK5oNbv21JaGZwCkYOeAKm2wgStjtEFUrFmQncDRL5dwOFeUqPe78KeZHNePnABpRwLriF4X8_ot_L2ZwIMkL8oVm69UOFxhEwvZVbSuHZSNkr77qCQpg97XHSMVd8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZmqHruBgV9Fg4M0euRZJ8zjyYpSHUMZWMuD3YJ7nIjpO4SFBWzO3mJn2zFzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zZvCZQ3nG9m-EOZqmY2lo7LvhO30Ezy-irqKVhaEq_88O59snRYWZEs_1XtuKbfAdxFT1ZWSCPaL09U5E9Rgh64AZ_KQd1YCIRUEeHanMbCzGEm0cs816d"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/EklwjRjXnwg_moTgBO36myIQpBF9tVD9fDXmvtmgqlW1cx_5a--7b8Qq-TdspBisegowraI_V9VWHrzPf3K4vrQQUvgOhnp7TvxbA4e5D5Zc1nnLkRaWrG9uuM8z_6IPTHiNn-NHcvpJsF3sCjNDTvgThHqOlM4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZjMLpnRd04UkoEUuEd5Ra9RPlmUeOQJyY9hKQE7nd_O-KTzZt76jELlzyFzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zZvCZQ3nG9m-EOZqmY2lo7LvhO30Ezy-irqKVhaEq_88O59snRYWZEs_1XtuKbfAdwABN7WSC2UvY_eZE9Rgh64AZ_KQd1YCJDdGq2Zq2C06XhNCGspp0x"
+        }
+      ],
+      "overall_rating": 4.25,
+      "reviews": 403,
+      "location_rating": 3.0,
+      "amenities": [
+        "Smoke-free",
+        "Free parking"
+      ],
+      "excluded_amenities": [
+        "No air conditioning",
+        "No airport shuttle",
+        "No balcony",
+        "No beach access",
+        "No elevator",
+        "No fireplace",
+        "No fitness center",
+        "No hot tub",
+        "No kitchen",
+        "No microwave",
+        "Not pet-friendly",
+        "No cable TV",
+        "Not wheelchair accessible"
+      ],
+      "essential_info": [
+        "Sleeps 10",
+        "5 bedrooms",
+        "3 bathrooms",
+        "5 beds",
+        "54 sq ft"
+      ],
+      "property_token": "ChkQ9--biYm96MphGg0vZy8xMWtqNW42dzVmEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQ9--biYm96MphGg0vZy8xMWtqNW42dzVmEAI&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Wyndham Tamansari Jivva Resort Bali",
+      "description": "Contemporary rooms & suites in a fashionable beachfront resort with dining, outdoor pools & a spa.",
+      "link": "http://wyndhamjivvabali.com/?CID=LC:HR::GGL:RIO:National:49340&iata=00093796",
+      "gps_coordinates": {
+        "latitude": -8.573117,
+        "longitude": 115.3837247
+      },
+      "check_in_time": "2:00 PM",
+      "rate_per_night": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$49",
+        "extracted_before_taxes_fees": 49
+      },
+      "total_rate": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$49",
+        "extracted_before_taxes_fees": 49
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "57 min"
+            }
+          ]
+        },
+        {
+          "name": "Jivva Beach Club",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfH4rTTw6d5q8Bf_IAWFkYGYQMMGtN-NDrQiKV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOfH4rTTw6d5q8Bf_IAWFkYGYQMMGtN-NDrQiKV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEGPGqtBs0XM-Qj_4V-ZHNzwCX69Ylfyc7E41Y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOEGPGqtBs0XM-Qj_4V-ZHNzwCX69Ylfyc7E41Y=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeJkWgn5dftMG8PKLlL9ygiYs4cXIohSriEizt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPeJkWgn5dftMG8PKLlL9ygiYs4cXIohSriEizt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhLZsPHoV2gYGHlMFwXW0ElVqLSFtAc0SN07hV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPhLZsPHoV2gYGHlMFwXW0ElVqLSFtAc0SN07hV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYQeQjGT5vlf2zdjvGRcpH9qBQ_6B8Zi-BlYIO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMYQeQjGT5vlf2zdjvGRcpH9qBQ_6B8Zi-BlYIO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnupaZd1D_pV7Dqww1tny6kWsR66XffaGj3qCx=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPnupaZd1D_pV7Dqww1tny6kWsR66XffaGj3qCx=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgjZLt_phQDlrYYuWSRzjzXkreZaqBVxUzV99v=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPgjZLt_phQDlrYYuWSRzjzXkreZaqBVxUzV99v=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5JzdiafNlgnV8DzFlKAYxNsOtvB4DAMjWMKcs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM5JzdiafNlgnV8DzFlKAYxNsOtvB4DAMjWMKcs=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/8QRIL1SLcOO74D2wa_proS5c0Xd23XA8-nTTN4YAdIUed0E4NI4x_pwnAdZwh9cLrg_nH32lxcdUuHuQ3EKCameHlPOMwsrEozwwAzeAHQTh7_AQTfxFXyvcV6LVwMcG5Ryz1jlmqPFVCQrO_rYZ9Y8aQdT5cA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/128/357/753/jivva-lagoon_O.jpg"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 2254,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1584
+        },
+        {
+          "stars": 4,
+          "count": 399
+        },
+        {
+          "stars": 3,
+          "count": 115
+        },
+        {
+          "stars": 2,
+          "count": 67
+        },
+        {
+          "stars": 1,
+          "count": 89
+        }
+      ],
+      "location_rating": 2.8,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 474,
+          "positive": 363,
+          "negative": 69,
+          "neutral": 42
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 336,
+          "positive": 246,
+          "negative": 56,
+          "neutral": 34
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 331,
+          "positive": 235,
+          "negative": 71,
+          "neutral": 25
+        },
+        {
+          "name": "Parking",
+          "description": "Parking",
+          "total_mentioned": 17,
+          "positive": 5,
+          "negative": 9,
+          "neutral": 3
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 15,
+          "positive": 4,
+          "negative": 10,
+          "neutral": 1
+        },
+        {
+          "name": "Hot Tub",
+          "description": "Hot tub",
+          "total_mentioned": 20,
+          "positive": 3,
+          "negative": 12,
+          "neutral": 5
+        }
+      ],
+      "amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "property_token": "ChoIr97n8-f4wPm8ARoNL2cvMTFid3A2aGJzNhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIr97n8-f4wPm8ARoNL2cvMTFid3A2aGJzNhAB&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "The Ritz-Carlton, Bali",
+      "description": "Zen-like quarters, some with butler service, in an upscale property offering refined dining & a spa.",
+      "link": "https://www.ritzcarlton.com/en/hotels/dpssw-the-ritz-carlton-bali/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "gps_coordinates": {
+        "latitude": -8.8306709,
+        "longitude": 115.2153312
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$476",
+        "extracted_lowest": 476,
+        "before_taxes_fees": "$476",
+        "extracted_before_taxes_fees": 476
+      },
+      "total_rate": {
+        "lowest": "$476",
+        "extracted_lowest": 476,
+        "before_taxes_fees": "$476",
+        "extracted_before_taxes_fees": 476
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "29 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung Jebag",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZ6_kbQ37wTwjSOtM_Z0TqACR1h2BtjFFkS1_f=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZ6_kbQ37wTwjSOtM_Z0TqACR1h2BtjFFkS1_f=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4rGMVR9PuZthaHnWy33nHIXANnbqwbhfmFM7S=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP4rGMVR9PuZthaHnWy33nHIXANnbqwbhfmFM7S=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZ6xKXda_lWBuWATUOST7vzzQOsjoctUxB112F=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZ6xKXda_lWBuWATUOST7vzzQOsjoctUxB112F=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8lzvfafDS3yv2qa15BIOtFzXy81znKkQO03Cn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN8lzvfafDS3yv2qa15BIOtFzXy81znKkQO03Cn=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/MRZ6QwGXpsyTOQFUE4XjVLZNHd7V5biwj-uG_DqygygbhfcsSFbk60Aat_dt_kamzzeBOecHosScAuB_U3SSjveoz10DLRjjV0p6S-o3ciKZF86XxBfcZ7CyO26F5ABcpoc0pvjjsR4nMpjamKlZ1h6j69rdJgc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/39/398900/398900a_hb_s_011.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Bd2t-sVzcOMR9MXj2U-zPCvgN6PUAhmHW3ufkcrLspqCnpmzBGHz-iiImd4RcaXakBRBgtbeoqAElRHe9wDc5oo0sw9BNdtktL8EBSWOSb1Mb-iPpuBtTUpsOrKEStPw2Fr6n4LkIoBXE7Rv1OfZK29qyC4f3Z8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/39/398900/398900a_hb_w_048.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOm1vEaCdjz4MODPjac4sHffiDuYigUAe0oa3Dl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOm1vEaCdjz4MODPjac4sHffiDuYigUAe0oa3Dl=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMg2j3rI6krVFfDNEDQTkmNe1FPC9OvoCU22lqe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMg2j3rI6krVFfDNEDQTkmNe1FPC9OvoCU22lqe=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOClJ4h0LRvEUDbqQ13r5hNOCugUSyZIn6k3e4E=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOClJ4h0LRvEUDbqQ13r5hNOCugUSyZIn6k3e4E=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 3799,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 3059
+        },
+        {
+          "stars": 4,
+          "count": 439
+        },
+        {
+          "stars": 3,
+          "count": 125
+        },
+        {
+          "stars": 2,
+          "count": 47
+        },
+        {
+          "stars": 1,
+          "count": 129
+        }
+      ],
+      "location_rating": 2.8,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 652,
+          "positive": 572,
+          "negative": 50,
+          "neutral": 30
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 667,
+          "positive": 567,
+          "negative": 77,
+          "neutral": 23
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 279,
+          "positive": 228,
+          "negative": 30,
+          "neutral": 21
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkIv_HyiNKHpf6yARoML2cvMXozdGJnZ3BzEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIv_HyiNKHpf6yARoML2cvMXozdGJnZ3BzEAE&q=Bali+Resorts"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Laba Ubud Villa",
+      "gps_coordinates": {
+        "latitude": -8.491020202636719,
+        "longitude": 115.2666015625
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$139",
+        "extracted_lowest": 139,
+        "before_taxes_fees": "$115",
+        "extracted_before_taxes_fees": 115
+      },
+      "total_rate": {
+        "lowest": "$139",
+        "extracted_lowest": 139,
+        "before_taxes_fees": "$115",
+        "extracted_before_taxes_fees": 115
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$139",
+            "extracted_lowest": 139,
+            "before_taxes_fees": "$115",
+            "extracted_before_taxes_fees": 115
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "1 hr 20 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 45 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung Balok",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/BwML4HdC35hqXHVmycDRiSWcc49Ew9J0xBWlsiip8DQdcYwMM_IVsthd-IsvbeMJEs-7YW3EFLC1d0102DoF9WudwPkSd75dKHgPPm1PLYVjnkNlqCZPbGwUj2f0JwTlTyc7ov6b5Edw0N7d5gUmDAqS9zr8DA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Z2pSH4g4S_yU2HUuVH8VO0gj-knCPEYi79k3yIaT6-6qkGQR77LLDFljtdjF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4yUvxhQ3nG9m-EOZqnV2koVZfhO30Ezy-jmqLVPIUq_78O59smcYXZq-v1XouGbRgc5FBRnWzSlfPs-DpE9Rgh64AZ_KQd1YCJLkmBq07R_q4UD3LfxAnAl"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/QO_xRRdosUQprFOWo2Ieq98KsuyojMIFa571Bv81zY-TYfLD8_BhXyZpwasN2_z4JoZNAMVOh7vl7JSVIyDnBWRf_A6aOrkEHmzwPCAX70JIPL-O5DG2JVqSLbyWBnzpGbhUgQ27k-wEnbENjzw1b4QAwaRN1UM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.staticontent.com/media/pictures/b91b54bb-de07-457b-ac8b-81de60635f8e"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/b4My9K0TNm9WWazl3sQJAEO99AWtLJc7rX5yHt0gjbBTcYBpknBTRopoP1zIaVYOxq0hXYR3eD1B9ERZOgVWHGjWhiGOo-tCTWN-xINmh6_pmkskxmFDluQynnvmZCRQ3SjZ-UXzhXCrMQyo22vd6pJCvKXSUw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/16/410dd9c1-fa77-41ca-9d5a-3166d92352b0-1668579158596-bd69c0943906cc408ffa7cddfccd39c5.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/tmHOERrOjKj7flyLRjGvuwfhGdn2_g74XnJqXZ_PxA1apD9Iorx58ytHZ6YhaodGCgxJlLeurZ9eZWN5oq87iE0CwXBllqXehbTz5yP2iwpAkHE6p-ZdtmOb_QzVLdNiQ8goWyd8CuvzJGJhJoGVtveGMj56228=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.staticontent.com/media/pictures/b50a9da1-03cd-46b4-a00d-90c6c9274e28"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/Hul8X4zegNsacRflxSIqgJAkZDZiN8abuociMEtSGiGRFTlI-MblsHoXcxdFnkRoYX67BPWPy7zZ-LG4um75gpTHdH9MtWR6lA8OnoVCwjkxabJeXCMWcXo_4YCWczF_zUy5lu_VhMLBQgYdRyKKEc0mfPc7nQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/104944527.jpg?k=cae2b4a60f5e6ad05783b170f9c6538caae5e6c762f5a16b785698a81f0cd1af&o="
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/GCOtex_WTl1dNbAawKrR2wGPvmwaWo0Y2KsPK-uQIqDccyISYZV8q71pPz3S80b8kbFCAFg9J0z7Tn-3rBDL2N3jQMQcXLSHpM9fpmTCvmHVgnEPUJUeGX_ED0SobyPgCxVg3e-DJUgyg-bF1r5KeBnCNaoPUKo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZsISMgxYO1CMZBxWCSLBA8S-f9nv8PYOnojTsDYDpm7G8Nysd0Zm6JEjDHzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4yUvxhQ3nG9m-EOZqnV2koVZfhO30Ezy-jmqLVPIUq_78O59smcYXZq-v1XouGbRgZgFBR3EyC2d-Q9DpE9Rgh64AZ_KQd1YCLvYZXJO8ewWpx9op3xBUys"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/p6sc8GqBRg8Ek9bH2jxEeHIF2Q0fk48Ryd3ZGxFGGp64PsbyEuvph7GuHQwOPNeg09THdschCncxejodS68t0k4sTcHtOEfzDbO0WXnnKg0Vuy4aNYpmAkXkCU6jwUwukv2OsKc1XTFfJyh1yATPouH0zWdR3Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Zooi3tSgz7EImNQWfXbQb4BuTrGLtGZaTnzLsPJ_Jvpa2Pzd877bIUF7sfjF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4yUvxhQ3nG9m-EOZqnV2koVZfhO30Ezy-jmqLVPIUq_78O59smcYXZq-v1XouGbRgc5AxNrWjSYYL8-DpE9Rgh64AZ_KQd1YCIyZR6Qqn9Qf4Deo2aUmTah"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/Zy0GQHX6bPQXL9k-vWakzhQJT2Or9S07ci3gMexP0beE69cRrDjhe9LFLp_U_SblnXuGt5aymKOk_d3CtStpZtQmbWPDZ2NXPhqaWEh85ThlC62Z57W08D-jpn49bW-e_Xbg3MszbrCa1ckpKnXaJk_rTaeWX30=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/03/04/6bbe6adb-b672-4a55-bd88-3ee13bae1c95-1677870915298-666fbb39969709240b6d512a63fad167.jpg"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/spWgh1M66vG9iAdwqnkSyKosD7R_d2rmGzbboxFC710BN12vBVIdojKWuo0G1RQfNjxRG0JmaYwBuA3-rVb0Z3yiec-hesUrHlF30gneAMkeU351arZaomeYB9poZ4ethGFTq25HshyF99gzg3C5IYU01iPdTT4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/03/04/9cf0d823-106a-410d-bcc0-43dd6bd626f6-1677870929910-1ec868d7a25a2d1903ede73c20beacd6.jpg"
+        }
+      ],
+      "overall_rating": 4.7964787,
+      "reviews": 77,
+      "location_rating": 3.3,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Balcony",
+        "Kid-friendly",
+        "Crib",
+        "Heating",
+        "Indoor pool",
+        "Ironing board",
+        "Kitchen",
+        "Outdoor pool",
+        "Patio",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "excluded_amenities": [
+        "No beach access",
+        "No elevator",
+        "No fireplace",
+        "No fitness center",
+        "No hot tub",
+        "No microwave",
+        "No outdoor grill",
+        "No oven stove",
+        "Not pet-friendly",
+        "Not wheelchair accessible"
+      ],
+      "essential_info": [
+        "Entire villa",
+        "Sleeps 2",
+        "3 bedrooms",
+        "4 bathrooms",
+        "1 bed"
+      ],
+      "property_token": "ChkQzpbG2Y2Z9tNCGg0vZy8xMXNzZ2RudnlzEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQzpbG2Y2Z9tNCGg0vZy8xMXNzZ2RudnlzEAI&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "AYANA Resort Bali",
+      "description": "Upscale oceanfront retreat with elegant rooms, suites & villas, plus 9 restaurants & 4 pools.",
+      "link": "https://www.ayana.com/",
+      "gps_coordinates": {
+        "latitude": -8.7862171,
+        "longitude": 115.1392725
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$429",
+        "extracted_lowest": 429,
+        "before_taxes_fees": "$391",
+        "extracted_before_taxes_fees": 391
+      },
+      "total_rate": {
+        "lowest": "$429",
+        "extracted_lowest": 429,
+        "before_taxes_fees": "$391",
+        "extracted_before_taxes_fees": 391
+      },
+      "nearby_places": [
+        {
+          "name": "Rock Bar",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "25 min"
+            }
+          ]
+        },
+        {
+          "name": "Scusa Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVcTQAY2TC0wuBDTR_rHgSC-hE93n_Z10TKzzH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMVcTQAY2TC0wuBDTR_rHgSC-hE93n_Z10TKzzH=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/0Hn2BUIQcvrMpJexipnT74M5vAUbeenOUyyaf-T_LmfTVepGvBngfruTk2s1Ir8w222KZLQGiZm0ml_KqGzPn38v0tTYiZgN5SpgfkwnuuFkbI1idRuEO1VkHCBv1AEWz4x8ZbxjVFHhbKUsVEZtclG5b37nVQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/163/450/9/Facilities_-_Others_AYANA_Kids_Club_2048_x_1536_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/JTfbDRh5cRRAlH-FRRFMW4DmY_UA-SjmRB7ibbe-8vzZDPVRQWx7gcEPPeqQttIRX8nHfEjjQJkQ2_LvIdJhf6VEvDxyXIKKEiXEWm0xfOZkQEsFEXaS4x3auXAMLr4SoXW3vVKmqI5x3OkNgZGbn1Fi_3z_Nuk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/161/535/937/Resort_View_King_Suite_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMh6piindoVhfcg48dEHllOaBsjxfWxmblxLaKs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMh6piindoVhfcg48dEHllOaBsjxfWxmblxLaKs=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNwqxhPuadebvB4WdGIA-jzbx6dHuw5nYn0kx6n=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNwqxhPuadebvB4WdGIA-jzbx6dHuw5nYn0kx6n=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbIoF4R2R9SSML5RdMp2TfjjwTHCF-FXigg8_8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPbIoF4R2R9SSML5RdMp2TfjjwTHCF-FXigg8_8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOA-hloFjsmqzfN2j1AWCnAZgTRIUhdQTVZNYnH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOA-hloFjsmqzfN2j1AWCnAZgTRIUhdQTVZNYnH=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhBjVaargIfugM_C0cLjL5Rgp8fkF5Qx6TkL9m=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMhBjVaargIfugM_C0cLjL5Rgp8fkF5Qx6TkL9m=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/JreH1ywZ9GrML0ENdiPcwfdmiMzLjX6m8gU1pFJLnpiZ0bAtcMc4vvziAXerXQC0yGI9084ythrmBAKxzZ6PC51Q3tLsf4FUnPkF5nL937ffAznUkA6UZt33bvjjADhU5Rhx7K-uJdYS4YRjg1ksp504DiVQHg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/163/450/57/Facilities_-_SPA_New_SPA_Treatment_Room_2048_x_1536_O.jpg"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 9123,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 7418
+        },
+        {
+          "stars": 4,
+          "count": 1050
+        },
+        {
+          "stars": 3,
+          "count": 270
+        },
+        {
+          "stars": 2,
+          "count": 104
+        },
+        {
+          "stars": 1,
+          "count": 281
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1246,
+          "positive": 1110,
+          "negative": 74,
+          "neutral": 62
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 827,
+          "positive": 676,
+          "negative": 114,
+          "neutral": 37
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 502,
+          "positive": 446,
+          "negative": 23,
+          "neutral": 33
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 14,
+          "positive": 4,
+          "negative": 7,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "property_token": "ChcIyo2FjenOuZ8xGgsvZy8xdGYyMTV2aBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcIyo2FjenOuZ8xGgsvZy8xdGYyMTV2aBAB&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Hilton Bali Resort",
+      "description": "Posh quarters in an upmarket resort with beach access & a pool, plus a spa, tennis & restaurants.",
+      "link": "https://www.hilton.com/en/hotels/dpsbahi-hilton-bali-resort/?SEO_id=GMB-APAC-HI-DPSBAHI",
+      "gps_coordinates": {
+        "latitude": -8.8256848,
+        "longitude": 115.21867449999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$223",
+        "extracted_lowest": 223,
+        "before_taxes_fees": "$223",
+        "extracted_before_taxes_fees": 223
+      },
+      "total_rate": {
+        "lowest": "$223",
+        "extracted_lowest": 223,
+        "before_taxes_fees": "$223",
+        "extracted_before_taxes_fees": 223
+      },
+      "nearby_places": [
+        {
+          "name": "Geger Beach",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "6 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "24 min"
+            }
+          ]
+        },
+        {
+          "name": "Paon Bali Resto & Bar",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/aNhcp_X1vEHrnipAJ56DUh_W6iD-JCmGM7PiwAhLjyLaag4kkYXu4E7FFI0FydfE5ZGB4IYqDYT3ZtsusgTIyQBnAoQCFCWYBtGD3ozVixiKKSODiHZgMDUsj7BZnDi0aVN7h_QZ_sLri2Fda03_nW-b51_YCQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/177/37/656/78242895_4K_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP0TztBFkIQjSoo8mhZ2_i080hrr-WaZr8YKm97=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP0TztBFkIQjSoo8mhZ2_i080hrr-WaZr8YKm97=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAXbncOAzUHHWT9lyhyfAB4X679XyU2UDDTSx2=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMAXbncOAzUHHWT9lyhyfAB4X679XyU2UDDTSx2=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVj3dQgsFj1UCEh-NZ48YZhU-V9ADrYwqKRMd-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPVj3dQgsFj1UCEh-NZ48YZhU-V9ADrYwqKRMd-=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/FfsGCLcDKg25NljMavSevHQzkdD5toC3f9e3cpBpbJ6CgaC8GmEXKjwujpI85aTLh7CW5W90-X_V6HYdMeKOk3MZ1bBV3k955V-RvYiDNvXwPLpEQImj0UHUPkpRytmLIG2CXaOxnHX6gGKEXCgcHHrBdocJy4s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/177/37/292/78242687_4K_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/SlSJRZ1eaoXLpOD3icry7GxtAWxdi_s2God9j89V2mFLFJRJXjh4v9rEDUlQf1GvtxnE00k9hevuQAxOac8wdSnEwMFtZg094yp09GooSfRm9UqJkSpXAW4of5fgH4TMDxu-y5-KH16i0NTFeLxNgVXgyu6U5g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/1/0/176/230/51/78075554_4K_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2V149ElnAhlcm9cNQ2NekioPH3sy4dicx5gzF=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM2V149ElnAhlcm9cNQ2NekioPH3sy4dicx5gzF=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOniNlDJbrZVklLaP7TK0FR46ncQ4g0ZmLN7f4k=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOniNlDJbrZVklLaP7TK0FR46ncQ4g0ZmLN7f4k=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMw1iW644fcvfW_u3gGieJZ0CiIa0SLeVOEC3Fe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMw1iW644fcvfW_u3gGieJZ0CiIa0SLeVOEC3Fe=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 8433,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 6557
+        },
+        {
+          "stars": 4,
+          "count": 1189
+        },
+        {
+          "stars": 3,
+          "count": 333
+        },
+        {
+          "stars": 2,
+          "count": 100
+        },
+        {
+          "stars": 1,
+          "count": 254
+        }
+      ],
+      "location_rating": 2.6,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 1421,
+          "positive": 1200,
+          "negative": 116,
+          "neutral": 105
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 1234,
+          "positive": 993,
+          "negative": 171,
+          "neutral": 70
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 1022,
+          "positive": 861,
+          "negative": 80,
+          "neutral": 81
+        },
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 27,
+          "positive": 10,
+          "negative": 14,
+          "neutral": 3
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 29,
+          "positive": 8,
+          "negative": 20,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "eco_certified": true,
+      "property_token": "ChcI9uq9hrWO2OtjGgsvZy8xMjJ0YzFteBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcI9uq9hrWO2OtjGgsvZy8xMjJ0YzFteBAB&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Sumberkima Hill Retreat",
+      "description": "Refined rooms & posh villas with infinity pools in an elegant resort offering sea & mountain views.",
+      "link": "http://www.sumberkimahill.com/",
+      "gps_coordinates": {
+        "latitude": -8.1513898,
+        "longitude": 114.60883679999998
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$130",
+        "extracted_lowest": 130,
+        "before_taxes_fees": "$118",
+        "extracted_before_taxes_fees": 118
+      },
+      "total_rate": {
+        "lowest": "$130",
+        "extracted_lowest": 130,
+        "before_taxes_fees": "$118",
+        "extracted_before_taxes_fees": 118
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "3 hr 48 min"
+            }
+          ]
+        },
+        {
+          "name": "Kima Bar & Resto by de'TOPAZ",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPBOGM3PThdFoG0diey-mb5EzU5XX6X0FS9MfU0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPBOGM3PThdFoG0diey-mb5EzU5XX6X0FS9MfU0=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiNWd71Q2o2e2-RX9BV9ImGsnmYH8PulyFh-4P=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNiNWd71Q2o2e2-RX9BV9ImGsnmYH8PulyFh-4P=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQ1W0oka64_P5u0GSAk2_pt5BieYun5zgewkMz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOQ1W0oka64_P5u0GSAk2_pt5BieYun5zgewkMz=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlIKwJWcYDXx_wL07AqHuWzTlC2xOI80qveLA0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNlIKwJWcYDXx_wL07AqHuWzTlC2xOI80qveLA0=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/FEyJCjQEh2MbtlALEiUQPmkDIKgpje4ymcxMc_HIK5arjEDZB9y8TIt5thhPFYJvpmqIerEm3if5ZUbTfE4NsjCPfLP6AukHCIcru3EndRymp1VZuz6tgUqiJwTlMcwoGNCo9IRcyOAHkBkQIdo8j_CR_CyYj6g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/17000000/16590000/16585300/16585282/5b642175_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdn8A6pIy9FalDt-1kfTwq2FvFJDKTI_ZVD7-X=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNdn8A6pIy9FalDt-1kfTwq2FvFJDKTI_ZVD7-X=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOi-qcIX2Ak7sGuaELDIQBkW0emk16qvBnaXk6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMOi-qcIX2Ak7sGuaELDIQBkW0emk16qvBnaXk6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFg6KpZHYk9cAQmrHl8fl-QJ53c0pbTISsX3Ck=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOFg6KpZHYk9cAQmrHl8fl-QJ53c0pbTISsX3Ck=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONhS_4HBKy3bbA-qMSOY0P6ao24XuvfMgGuaxQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipONhS_4HBKy3bbA-qMSOY0P6ao24XuvfMgGuaxQ=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 1048,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 858
+        },
+        {
+          "stars": 4,
+          "count": 121
+        },
+        {
+          "stars": 3,
+          "count": 33
+        },
+        {
+          "stars": 2,
+          "count": 21
+        },
+        {
+          "stars": 1,
+          "count": 15
+        }
+      ],
+      "location_rating": 3.0,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 253,
+          "positive": 222,
+          "negative": 19,
+          "neutral": 12
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 209,
+          "positive": 189,
+          "negative": 13,
+          "neutral": 7
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 191,
+          "positive": 178,
+          "negative": 2,
+          "neutral": 11
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Spa",
+        "Restaurant",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Child-friendly"
+      ],
+      "property_token": "ChoI3LHO6tXtkviSARoNL2cvMTFieGY2ZmRiahAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI3LHO6tXtkviSARoNL2cvMTFieGY2ZmRiahAB&q=Bali+Resorts"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Bali Masari Villas  Spa Ubud - Two-Bedroom Cempaka Villa with Private Pool",
+      "gps_coordinates": {
+        "latitude": -8.597949981689453,
+        "longitude": 115.29611206054688
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$110",
+        "extracted_lowest": 110,
+        "before_taxes_fees": "$91",
+        "extracted_before_taxes_fees": 91
+      },
+      "total_rate": {
+        "lowest": "$110",
+        "extracted_lowest": 110,
+        "before_taxes_fees": "$91",
+        "extracted_before_taxes_fees": 91
+      },
+      "prices": [
+        {
+          "source": "Hotels.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/7725599522425217147.png",
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$110",
+            "extracted_lowest": 110,
+            "before_taxes_fees": "$91",
+            "extracted_before_taxes_fees": 91
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "50 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 10 min"
+            }
+          ]
+        },
+        {
+          "name": "Ferry's Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/9IVMUQEfIe38-eYXmmOsC9VbFDo3BhzYcWGTlY0YIOSbMEbKNXRFugktSb6vhV-xRYOPNAoibYNSrlg3qEmpa0VaQwW-NwDWS5qWsvu0uWkcQV2RJwWojaSUw83oYiQ7G-iePRI7From082AfKSFYlG5aFECYQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2460000/2453200/2453166/4bbf2fc9_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/JwyZP_6yGqM3Je9fLlSWKpH9kwP0BxX1Ypk5JmXjMe5Ioqk5_z6UEw8XTqtwuOlqAOpPIQYK99WvSqEIOBys9KnQdMg3NCilJEQ4NYXcI1m3sNWYMSHcoBCJy6krt14fLHwRU75iV-CSsEYpShbgkNDzutnLxQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2460000/2453200/2453166/0c930257_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/53jsBZeF0F0k8Kbkzrv2HI258ldPbfuepkMd860rQDFQot2wwV7iM1MwztZ_YTRRP6JdqwEGW1hZoCmC-9e3EuqeOEfzfuHz-zUzT_8xEPVCc0k_xs_MWLYrsjehRBcoZTJNyhn-en4lqBdqo08tf1L2_olhnA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/230807767.jpg?k=a30c25ac270421b6654f8ac82b249a7f413eed2e63393e8b40bc65b8d813dde6&o="
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/HKfpcGxfojbiLQgMVpdekdSLyIzVJq7JX0ba285cigt8eR450KT6PvcdAuZL38MTZYG8TArTqg7Hm2V8UMSmbuxfMfNPJH6N-suCMOZMoE1GuUk9VNrYcNeiMc9fAkF27ris4Y0eVR4Wnr4RxFxQn3K2nIw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2460000/2453200/2453166/1ceb4d45_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/2sInND7QHY3m_sqwxia47ck8-p16om7rZASr1_RTh1tI-whlCkdiI2CSfRTQKYwodM-tIE3-NWqO24Uq7ao6HdNFJ6W8idJ8eaStAV0Px_mjGzpcazf_Qp0SpSO444shvt7iNSJhI6iQ8L7VuFJADWMTjTMZ2A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/230809082.jpg?k=59ea96702246d636b0edbb55b8c179757a773f7aabb52f79111b03bbc17f7a09&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/0Fy_6KWL1o6hgeIWzpdZXHoPFOyd5lNe0jwCqHkFec2ROnG_0qIlxb7IdkAPIlLRhCmtuBSKeiRz46M0X0kaQ1BXtz2HvgbTgR4ma4LXONNKzr8L0ai2-4Hi3XEVwxWsp6goTnnPJFIVd1vOctCbQWQLWpY22w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/230807684.jpg?k=73a9685dda2d39945cf7b75925944f35f9fe92de89e956058e3a054ba8d7927f&o="
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/IBEMPAecBtLOMaFnODUoLTAiW_ifH9OSLWBqW12ap4SabX149TOVh7I2IZI2bvzBba2WUh0YVcTg_lfEqIrR_9WKUP6bLykT4K1SO944ECbGcPfgl1sB3DbTZd9F_DDm_JQL4tB1W9-e8jqtUl-QutGayHtPKtk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/3000000/2460000/2453200/2453166/e77e4fcd_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/_gz9zpAKtAboOZi3CUHcHofHnXB9PZTv4lfQYytEdiCK2QuVdywf7fFZxSsAJwWbWqOnR68n57ZVnxoZd5csPFxwGFmgHaE_F9PNC4k-O76skrOGvX3hxvawF5OXVmBSB8JoniIXPPLoGwEfFJSrl7yhXx7m7-c=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/230809080.jpg?k=d2aa855c2a77d081c945251748224739c1de69e3e7bb9e3547b7c18b6948e1b6&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/ndTuKCR6y0DcnV-i6RUj9UNinKaM-dxOfIKn3X7Vlr8RwWjb9rxrIhzc4miop-WFQPIgrTv1c1YKFr69mpwr57HqDzNoj-EcND_OoE2nXw_2e9VKebvchT961D1tAmnkFccdlv8b5DohtWZFcvjBgq0ka_yvHvY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/230809025.jpg?k=e0bfce9c6d42a57d01e4896f1f329245b540ac771753f20c78eae9743fc8dc70&o="
+        }
+      ],
+      "overall_rating": 4.2,
+      "reviews": 114,
+      "location_rating": 2.8,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Balcony",
+        "Kid-friendly",
+        "Crib",
+        "Fireplace",
+        "Fitness center",
+        "Heating",
+        "Indoor pool",
+        "Kitchen",
+        "Microwave",
+        "Outdoor grill",
+        "Outdoor pool",
+        "Patio",
+        "Cable TV",
+        "Washer",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "excluded_amenities": [
+        "No beach access",
+        "No elevator",
+        "No hot tub",
+        "No ironing board",
+        "No oven stove",
+        "Not pet-friendly",
+        "Not smoke-free",
+        "Not wheelchair accessible"
+      ],
+      "essential_info": [
+        "Entire villa",
+        "Sleeps 5",
+        "2 bedrooms",
+        "1 bathroom",
+        "3 beds"
+      ],
+      "property_token": "ChkQ4PCehKnp1YVYGg0vZy8xMXkzaGg5d3g4EAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQ4PCehKnp1YVYGg0vZy8xMXkzaGg5d3g4EAI&q=Bali+Resorts"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Azure Modern Private pool Villa in the Lap of Nature",
+      "link": "https://book.azurebali.com/listings/97445?googleVR=1",
+      "gps_coordinates": {
+        "latitude": -8.63475227355957,
+        "longitude": 115.13441467285156
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$121",
+        "extracted_lowest": 121,
+        "before_taxes_fees": "$115",
+        "extracted_before_taxes_fees": 115
+      },
+      "total_rate": {
+        "lowest": "$121",
+        "extracted_lowest": 121,
+        "before_taxes_fees": "$115",
+        "extracted_before_taxes_fees": 115
+      },
+      "prices": [
+        {
+          "source": "Azure International Bali",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/17162052607990753773.png",
+          "official": true,
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$121",
+            "extracted_lowest": 121,
+            "before_taxes_fees": "$115",
+            "extracted_before_taxes_fees": 115
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "55 min"
+            }
+          ]
+        },
+        {
+          "name": "La Bussola",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/fbSzbn4EonlbK34sPv1bgfF4uIgYfwRfYCQcEYUmddypYx8F8qCakRtv05PHQjkV0-TiXZ0-4ZD5dX-wOL8F3TjwYWWdV1h7UkAoNgW_LE5sMzLGB6K3jRoMMZoBkEjAm69XoQIl8T8QNnGuYUwR6SVacHUSbV8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZjaKXpX8N42EZKzLfTLFizxTIk0SOD4uFmAiZC5D84o_hFApDyq3sVF3RAzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zevwhQ3nG9m-EOZqmf2XQZZPhO30Ezy-isq4tDLku_98O59snWYkhm9fxXuq6afAd_FS1gBzePY-QqU5E9Rgh64AZ_KQd1YCIxTBBZI4HxArmHQwYDYPhq"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/gUN2LxTXPFGDSLKgkAiayOMFT-Z0JchQAEfUKitmlWDvyM4Z4pNDc_Z84LcqEhfE-8xCQr4iCdw-2Pg4a-C5dDEWlPE5SH6SzsbErgqD6hUgrPWo0UPtCO-EnxtjicWvQwq2c0IvvnbWa8SL6iNCHy3Pvq9Hr2Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.vrbo.com/lodging/106000000/105010000/105000600/105000591/87060d2a.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/pFaSg5ug80GSvUyE0RR_uRTi0ovnBIjF4EoK3SjpTMu-RwIWMkSImFeIkaoOBDYA5BphmeaksnZL3AJipeo_S1g1m58mrGmM16EmT2ZDNv4N66X9Z10gIqUjzooO0xkYdLuypcuU3WTdq2gRLIQYRto1dSljDzE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/34110-97445-5J5jdNPIdNDnEwDKt-5EWH8SKbxrn42ZwW1Zu92liEg-64c72e1e0e2e5-medium"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/U-7vnqrHBbAK2v7OhVfHiMHtsqPlJQZ6wgbVAy9yrQDF4R3SnDpRUEYggkQW1UtWA0TDDoP4ls2CAjEiwnVea1KvdEIrkbifWjIrP2n90Lamaq5nWzwgWIus-hJvFVO0Rf2ueRHI0R8RJK_gpu4s5RVtbL_VQHw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.vrbo.com/lodging/106000000/105010000/105000600/105000591/a6c958ce.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/py3hri6cRwximQ7rqTjQfXABI881tPfnULuPvKrRIbZ4ydG3XWyC4fxEqi2ovrGtwlVXJc8Syfs_Q8qe8DLNhTRyicf-aGDY2eILvngdlpuSuu7duOu6um67PIOPct5ZtA-zRMCxcIrTEytxGIRu3JaWW3fD220=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/75000000/74110000/74105300/74105298/897a64a8_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/gnc-sp_DUnlrXjRqS30JtwNWqyBnmbp4vWrc6CB-4pzkvJODym_x92oymJevLpVd7DNWDISI5bnFLW94nkxAxijjsCA9fdTi205BxnzLgAOknLgf8CY5Ix6CAPhSQmMV98pzF0-ZUqdyvxOZzJTfT3BKjQW9bQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0Z2bezpiYS8CEEagjWTZJk0mvf9XXvDqmptCnqA9Kp_L2eTyNO3KfeDA7jOTF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zevwhQ3nG9m-EOZqmf2XQZZPhO30Ezy-isq4tDLku_98O59snWYkhm9fxXuq6afAdxFxNnHDemcLw-eZE9Rgh64AZ_KQd1YCKU3GgykoAMzOgLIa7c3MgI"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/7UpYNYYYwWQhFLfvVVMF04HLz3RXbFHZTMIAC6SIrUQtHGNyDetBnbzudSGgE-vCRDm8YVh4H18Iu31eDqNG26wyBuxdA3Ix4YMTe9Kc0RWx5A1CSWTv3sikHd8-NtCDymKtqJEo0VMlC3AiQUu3v9lER4jIqw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.vrbo.com/lodging/106000000/105010000/105000600/105000591/3f7b0f24.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/aMmUTQM6A_pIxmyQoy5c-PBHz9OJp_Laq900Cwfkz7SAm9Eja-YFmWngwUVkyZOuozTBrV9gWjxfYAlS4Ifk7W4VlAYnNm355trzN2afIYvjPxwqdD7cjtTBXKc1wdwkF7VbW96IX2CeW_meeXD17nlnDMoFgw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/34110-97445-3zzjz7YBirBtTsBKi656LnsQiEgjpo78M4nPeL--1P--Q-64c72dc2de929-medium"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/CKuU6VSfFQ4uZsmpwVngdmCCRXO0jmpCLVxcjQljZLblkJAV2nBWBo_C8T8iwe52xyoc1qGE2L6WQyMiQqvlr08xqqT3yTqoes-wUwr4bT0Obx9JVyXSawkq2Z2gz7hHg8RZAZXbJvhFYWm8mQb2obHpB-sdTQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZjZ-ohQIb5nwHGi60QLtt2izE917pAeCcqz34J43_rJi0PVddxey2NljhdjF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGqAEVmr2qjQMPI095Pdv3pEtFPIxOxxOPC-YWoFEg4zevwhQ3nG9m-EOZqmf2XQZZPhO30Ezy-isq4tDLku_98O59snWYkhm9fxXuq6afAZgFAN4BzW2dL8qeZE9Rgh64AZ_KQd1YCL4OQH-XdqKapDCgIAcCzkt"
+        }
+      ],
+      "overall_rating": 4.73,
+      "reviews": 30,
+      "location_rating": 2.9,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Balcony",
+        "Beach access",
+        "Crib",
+        "Indoor pool",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Outdoor pool",
+        "Oven stove",
+        "Smoke-free",
+        "Cable TV",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "excluded_amenities": [
+        "No elevator",
+        "No fireplace",
+        "No fitness center",
+        "No hot tub",
+        "Not pet-friendly",
+        "Not wheelchair accessible"
+      ],
+      "essential_info": [
+        "Entire villa",
+        "Sleeps 4",
+        "2 bedrooms",
+        "2 bathrooms",
+        "2 beds",
+        "2,153 sq ft"
+      ],
+      "property_token": "ChkQy4aNoY2D9PZcGg0vZy8xMWw1dnd3ZzFrEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQy4aNoY2D9PZcGg0vZy8xMWw1dnd3ZzFrEAI&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "The Patra Bali Resort & Villas",
+      "description": "Airy rooms, suites & villas in an elegant lodging with dining, beach access & an outdoor pool.",
+      "link": "http://www.thepatrabali.com/",
+      "gps_coordinates": {
+        "latitude": -8.7396213,
+        "longitude": 115.16165
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$101",
+        "extracted_lowest": 101,
+        "before_taxes_fees": "$84",
+        "extracted_before_taxes_fees": 84
+      },
+      "total_rate": {
+        "lowest": "$101",
+        "extracted_lowest": 101,
+        "before_taxes_fees": "$84",
+        "extracted_before_taxes_fees": 84
+      },
+      "nearby_places": [
+        {
+          "name": "Waterbom Bali",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "20 min"
+            }
+          ]
+        },
+        {
+          "name": "Bakso Arema",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSKJhI7YQpt5o_qNs_tHVb5LRZiNazZ8aXGKm0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSKJhI7YQpt5o_qNs_tHVb5LRZiNazZ8aXGKm0=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO27i4WhnN5CDJp8U3KADU9RrzYIcOMXliJE0iT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO27i4WhnN5CDJp8U3KADU9RrzYIcOMXliJE0iT=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMD-ZAf0RZwlanZ_jOmYqc37u1imibt2fZdONZ8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMD-ZAf0RZwlanZ_jOmYqc37u1imibt2fZdONZ8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_PwG_BXXTIFGEVtMuyNfm41W5H4JmhICrYQmj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM_PwG_BXXTIFGEVtMuyNfm41W5H4JmhICrYQmj=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOJhMgKuU9GxuM3AQBZnylvPDOiwZHpB7gjcbi_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOJhMgKuU9GxuM3AQBZnylvPDOiwZHpB7gjcbi_=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7MBKxCZlyEWlinwdfooCSLg0kppTupojz0v73=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP7MBKxCZlyEWlinwdfooCSLg0kppTupojz0v73=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMN5Sm1UtmhhcSYtPaWBB1FYn5p9xTN7R1Hhe6f=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMN5Sm1UtmhhcSYtPaWBB1FYn5p9xTN7R1Hhe6f=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPc-kbxZLFEJCFxAkpE9cFZlOY1F67KL7RB_gIm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPc-kbxZLFEJCFxAkpE9cFZlOY1F67KL7RB_gIm=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOMfnUQH9bETEuI9FwkqAOv_cHIdJs5fkasstHy=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOMfnUQH9bETEuI9FwkqAOv_cHIdJs5fkasstHy=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 3040,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2105
+        },
+        {
+          "stars": 4,
+          "count": 643
+        },
+        {
+          "stars": 3,
+          "count": 152
+        },
+        {
+          "stars": 2,
+          "count": 43
+        },
+        {
+          "stars": 1,
+          "count": 97
+        }
+      ],
+      "location_rating": 3.4,
+      "reviews_breakdown": [
+        {
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 328,
+          "positive": 236,
+          "negative": 18,
+          "neutral": 74
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 381,
+          "positive": 319,
+          "negative": 23,
+          "neutral": 39
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 254,
+          "positive": 216,
+          "negative": 19,
+          "neutral": 19
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 507,
+          "positive": 393,
+          "negative": 74,
+          "neutral": 40
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 397,
+          "positive": 299,
+          "negative": 24,
+          "neutral": 74
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 336,
+          "positive": 270,
+          "negative": 53,
+          "neutral": 13
+        }
+      ],
+      "amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "property_token": "ChkIsInI0ujjjbXtARoML2cvMWhkenZnZ2Q2EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIsInI0ujjjbXtARoML2cvMWhkenZnZ2Q2EAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Bvlgari Resort Bali",
+      "description": "Luxury cliff-top resort with villas & mansions, plus a private beach, sophisticated dining & a spa.",
+      "link": "https://www.bulgarihotels.com/en_US/bali?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "gps_coordinates": {
+        "latitude": -8.8429187,
+        "longitude": 115.12169089999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$1,710",
+        "extracted_lowest": 1710,
+        "before_taxes_fees": "$1,710",
+        "extracted_before_taxes_fees": 1710
+      },
+      "total_rate": {
+        "lowest": "$1,710",
+        "extracted_lowest": 1710,
+        "before_taxes_fees": "$1,710",
+        "extracted_before_taxes_fees": 1710
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "39 min"
+            }
+          ]
+        },
+        {
+          "name": "Sangkar Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/jLEkipJ6EmZmymXmp-dLUF-AMzhnmWXK0Zg26-hLC7Oi_gMB4q_xffB0Qq9BTn5_yHICR1Re6Keb7hTerQc_BJrOofXWQLy1DHw3czTGi2SDC674j91Z37-Tj-9jyjDcN0UxMjCB2ZbjWMx_iDRIkjADGq14-Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/168/284/931/dpsbg-mansion-7222-hor-clsc_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/aMEvptSgfi2Z7lTc0VkMOjMdvpLdzJRZDjCJ_rTgZcHRzqxBh-eBabI7RbfrBiTK9fFWgvJ7MdAx9IQA2xQXVD_v1o4vWuF5YA1zWPywlrMRsANA196q4W-ePcIz3WQMGksOWSVtgPUMYPvta6YaPBHzIFNnxQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096365/096365a_hb_ro_171.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdGJXlN52Q57Lu2ncIn4RWH2b5UuBby3u-LU4o=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNdGJXlN52Q57Lu2ncIn4RWH2b5UuBby3u-LU4o=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOG7CvU9hJdQwrEXkFKMYjHDqK_ZuH3LRYyOS5F=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOG7CvU9hJdQwrEXkFKMYjHDqK_ZuH3LRYyOS5F=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/7UcO7rLSKPfdZEsX96bIonS-dKrvbJ2H8ri6IsNKN-Z1yO4MwGnTF9Lf_h4Zs_801GIueFA1u4GGwGc7jjUJaG3UuKU48IMkA5OneXHg_pRMoOo542-F7xnYJH7axikN8K57QdtyD0lTLS5wnR6wUJz9Sd18FQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/5a/50/5a5007d57863cdc9e231a7d94acf44f10a51497b.jpeg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/g3NYGWlz2liRMm0hutu_cbB3XGEBlk82AcL2WWmNYYyALH9CP3BA8jOmaIHL_f_srgN6q9tUW4QH6-N3itpsRGok2TSA44UwWX0tCEIP0NHCfW7njJ-TvagFb_jCe9KjsIZF41YQDohkAYUjg-M55MoEkdOb8Qo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096365/096365a_hb_ro_092.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUSBpaEHdM35FFH1aTUGQiBMv4oaaJjWFaXlhC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOUSBpaEHdM35FFH1aTUGQiBMv4oaaJjWFaXlhC=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/3OGIf2jxzjp4x1a1Uk3Xx6Ix05wK5i05wLG32iK96RhC4HTpvePui0QxfehBIpabiH_NHafGPRdXR2bG6Kv3nnemBE8G7hGGmM7mOGZP3noMdNWzpO2SqSfHzaCl03jxfhwHfWdROuavBowTxpw_5Tg-9KzTCw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8c/34/6f/il-ristorante-luca-fantin.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/T0aJ3h25-nIxujk55N7rcin9QGOb4NgLf3FUwiLgy5RgFk3-ndHWWzCh5jGLzHTInAOTplKQdJPr16GzeHOM6LNe8stIsXXxEAHxZTmL0YZEBTFfW-ekPvoBngktkteCNsqaxnaXY8F1T88BDUyPqxudI3VNIA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096365/096365a_hb_f_029.jpg"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 2509,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2181
+        },
+        {
+          "stars": 4,
+          "count": 212
+        },
+        {
+          "stars": 3,
+          "count": 44
+        },
+        {
+          "stars": 2,
+          "count": 21
+        },
+        {
+          "stars": 1,
+          "count": 51
+        }
+      ],
+      "location_rating": 2.4,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 526,
+          "positive": 513,
+          "negative": 9,
+          "neutral": 4
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 275,
+          "positive": 251,
+          "negative": 16,
+          "neutral": 8
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 173,
+          "positive": 160,
+          "negative": 5,
+          "neutral": 8
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "property_token": "ChgIl8WV3uPShsnhARoLL2cvMXdyYjV3bXoQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIl8WV3uPShsnhARoLL2cvMXdyYjV3bXoQAQ&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "The Seminyak Beach Resort & Spa",
+      "description": "High-end quarters on a seafront resort with multiple restaurants, plus an outdoor pool & a spa.",
+      "link": "http://www.theseminyak.com/",
+      "gps_coordinates": {
+        "latitude": -8.686225499999999,
+        "longitude": 115.15459989999998
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$419",
+        "extracted_lowest": 419,
+        "before_taxes_fees": "$339",
+        "extracted_before_taxes_fees": 339
+      },
+      "total_rate": {
+        "lowest": "$419",
+        "extracted_lowest": 419,
+        "before_taxes_fees": "$339",
+        "extracted_before_taxes_fees": 339
+      },
+      "nearby_places": [
+        {
+          "name": "KU DE TA",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "31 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung Makan Da-Wan",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/9Gu9-JS70j7Xj2lxvotGSqL5wAcQhhhWvX-moF7qY0LMlcuxpXET0fiH13RuuFhUqKHXZY7qed3fkDFcP2UE0KYKD2ovwBo70UHRYVJ36e86HxMb40LWoNzLslDsh9QLVm_u9OSvdnQxZ8lQ74YEK0vZj0i3ABs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/b7/5e/b75e10ab8af6ebb2769f449250ddd6d1c96eb95d.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyNqBT1xnjfM9il9sTOOb6x35MrDR2R4gYoD-P=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNyNqBT1xnjfM9il9sTOOb6x35MrDR2R4gYoD-P=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFXkcvqxKGGBKIGRoqt8InBwAWu8NMRTd_gt9e=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNFXkcvqxKGGBKIGRoqt8InBwAWu8NMRTd_gt9e=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPptrZBcp_dxb3NM3jKdz1SwnMIhonmDQK16ZVk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPptrZBcp_dxb3NM3jKdz1SwnMIhonmDQK16ZVk=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5rThxPrn8CjdANmvaNwyBR9-YDVq2v_EK8iPQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN5rThxPrn8CjdANmvaNwyBR9-YDVq2v_EK8iPQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtHAO1TdaMGZRkCLkDYLXvl3SJ2MZiIC7PpEhh=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOtHAO1TdaMGZRkCLkDYLXvl3SJ2MZiIC7PpEhh=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/oqFlShWt2DNokWHXrghF2x_4PB7Cm8hvL0l7oM0f7xOx42loIHvEEgXYTlL8hbJuEUjeF3oM8sN7LfeXDE27tyAS1FjOAOZcj7yQI1DRnqfE5Fx7Tjd9hMm6irGG_M_HW3EM6U-F4B4gRewGYJn4UrwRtv38GZo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/2000000/1720000/1717300/1717203/3cda4d3b_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPphoeIqyWhV2I_j8hl66cSPZiEMZWw5Wwa-Zt7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPphoeIqyWhV2I_j8hl66cSPZiEMZWw5Wwa-Zt7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMb-XAeUB2N0hXGflrOyELCKUEn4Znb3jkLvGXG=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMb-XAeUB2N0hXGflrOyELCKUEn4Znb3jkLvGXG=s10000"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 2347,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2082
+        },
+        {
+          "stars": 4,
+          "count": 166
+        },
+        {
+          "stars": 3,
+          "count": 36
+        },
+        {
+          "stars": 2,
+          "count": 20
+        },
+        {
+          "stars": 1,
+          "count": 43
+        }
+      ],
+      "location_rating": 4.7,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 349,
+          "positive": 326,
+          "negative": 7,
+          "neutral": 16
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 649,
+          "positive": 619,
+          "negative": 15,
+          "neutral": 15
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 329,
+          "positive": 306,
+          "negative": 9,
+          "neutral": 14
+        },
+        {
+          "name": "Wellness",
+          "description": "Wellness",
+          "total_mentioned": 98,
+          "positive": 93,
+          "negative": 3,
+          "neutral": 2
+        },
+        {
+          "name": "Pool",
+          "description": "Pool",
+          "total_mentioned": 255,
+          "positive": 248,
+          "negative": 3,
+          "neutral": 4
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 225,
+          "positive": 200,
+          "negative": 11,
+          "neutral": 14
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "property_token": "ChkIkNes5-aTnMy_ARoML2cvMXB5ZDNfODdzEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIkNes5-aTnMy_ARoML2cvMXB5ZDNfODdzEAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "COMO Uma Canggu",
+      "description": "Luxe hotel complex on the ocean, providing surf gear & classes for all ages, fine dining & a pool.",
+      "link": "https://www.comohotels.com/bali/como-uma-canggu?utm_source=Google&utm_medium=GoogleMyBusiness&utm_campaign=GMBprofile",
+      "gps_coordinates": {
+        "latitude": -8.654501,
+        "longitude": 115.12586929999998
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$329",
+        "extracted_lowest": 329,
+        "before_taxes_fees": "$272",
+        "extracted_before_taxes_fees": 272
+      },
+      "total_rate": {
+        "lowest": "$329",
+        "extracted_lowest": 329,
+        "before_taxes_fees": "$272",
+        "extracted_before_taxes_fees": 272
+      },
+      "nearby_places": [
+        {
+          "name": "Batu Bolong Beach",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Public transport",
+              "duration": "46 min"
+            },
+            {
+              "type": "Taxi",
+              "duration": "47 min"
+            }
+          ]
+        },
+        {
+          "name": "Pan De Mie Noodle House",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOS53sTt6BJ4yzvrBp8SirETvV9ZPMxb5e5EnwI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOS53sTt6BJ4yzvrBp8SirETvV9ZPMxb5e5EnwI=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3s8VHlkM5aMixik2HQLFB_6B0QlIfjcj0JuVd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO3s8VHlkM5aMixik2HQLFB_6B0QlIfjcj0JuVd=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlydxXi6SuThVItr8K6-XXK5VrNCmoWD67SZPs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMlydxXi6SuThVItr8K6-XXK5VrNCmoWD67SZPs=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOO5my-Mb-xAKLSOQo4DHCVCTnfEPkFXNJoZNwu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOO5my-Mb-xAKLSOQo4DHCVCTnfEPkFXNJoZNwu=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZ8O2570GDTlOkBwBYjBfyfUBnxUcxsji-khMc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZ8O2570GDTlOkBwBYjBfyfUBnxUcxsji-khMc=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM138qIFY4Li4nutg526xUq0FxWEMQ_L9HLcI9l=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM138qIFY4Li4nutg526xUq0FxWEMQ_L9HLcI9l=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO821X1edSibin3BInhf-a1uUgOVo2uVxYoP1nw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO821X1edSibin3BInhf-a1uUgOVo2uVxYoP1nw=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrdQySqQGR8VFCF0AcJGbDs8uX8ZskUls1qqY8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMrdQySqQGR8VFCF0AcJGbDs8uX8ZskUls1qqY8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsKCrMs3xsjjDLD2lnPB0D0wXUHEEPTDS8xE2D=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMsKCrMs3xsjjDLD2lnPB0D0wXUHEEPTDS8xE2D=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 1286,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1031
+        },
+        {
+          "stars": 4,
+          "count": 158
+        },
+        {
+          "stars": 3,
+          "count": 38
+        },
+        {
+          "stars": 2,
+          "count": 22
+        },
+        {
+          "stars": 1,
+          "count": 37
+        }
+      ],
+      "location_rating": 4.2,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 153,
+          "positive": 130,
+          "negative": 7,
+          "neutral": 16
+        },
+        {
+          "name": "Gym",
+          "description": "Gym",
+          "total_mentioned": 40,
+          "positive": 34,
+          "negative": 4,
+          "neutral": 2
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 89,
+          "positive": 67,
+          "negative": 16,
+          "neutral": 6
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 199,
+          "positive": 164,
+          "negative": 23,
+          "neutral": 12
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 104,
+          "positive": 83,
+          "negative": 10,
+          "neutral": 11
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 213,
+          "positive": 168,
+          "negative": 32,
+          "neutral": 13
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChoIv6zen9HPwIu2ARoNL2cvMTFoOXhudHk0YhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIv6zen9HPwIu2ARoNL2cvMTFoOXhudHk0YhAB&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Tira Vilagna Suites & Spa",
+      "link": "http://tiravilagnabali.com/",
+      "gps_coordinates": {
+        "latitude": -8.2600874,
+        "longitude": 115.3337451
+      },
+      "check_in_time": "2:00 PM",
+      "rate_per_night": {
+        "lowest": "$75",
+        "extracted_lowest": 75,
+        "before_taxes_fees": "$61",
+        "extracted_before_taxes_fees": 61
+      },
+      "total_rate": {
+        "lowest": "$75",
+        "extracted_lowest": 75,
+        "before_taxes_fees": "$61",
+        "extracted_before_taxes_fees": 61
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "1 hr 53 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung Pojok Sari",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMSo1O__N5pr1f9ETl1zuSHgFV2zgZ0xQrRU7aN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMSo1O__N5pr1f9ETl1zuSHgFV2zgZ0xQrRU7aN=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXKHMwdfiA_MPLPQoJCCRvLs7WuzXbgOF9DGUq=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOXKHMwdfiA_MPLPQoJCCRvLs7WuzXbgOF9DGUq=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPv_pmGNXZzkmbInyYkVQ2PMHRHck8yHGZ3gBP6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPv_pmGNXZzkmbInyYkVQ2PMHRHck8yHGZ3gBP6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5uEFo3PgT97APR3VDWw01vYushzuNRp9j6lLx=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM5uEFo3PgT97APR3VDWw01vYushzuNRp9j6lLx=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-a-0vdnP5VYL2rSdE3158lKcCze6Fc9G0P_NP=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN-a-0vdnP5VYL2rSdE3158lKcCze6Fc9G0P_NP=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPASU9Q-j96fANAxd6PXdj5_18_e-xoVStV1QX8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPASU9Q-j96fANAxd6PXdj5_18_e-xoVStV1QX8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMo12ELOXK3QJ5UHPBYikwsl8F6_FCXaoggOJQO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMo12ELOXK3QJ5UHPBYikwsl8F6_FCXaoggOJQO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBsd3XH3gl8D7ZCWnQYVsz4bqOFGX4OIajZ200=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMBsd3XH3gl8D7ZCWnQYVsz4bqOFGX4OIajZ200=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOo9J-oKSFSrvYn7zWiJTPd0bQYFoH0NwZjQPcD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOo9J-oKSFSrvYn7zWiJTPd0bQYFoH0NwZjQPcD=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 313,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 269
+        },
+        {
+          "stars": 4,
+          "count": 25
+        },
+        {
+          "stars": 3,
+          "count": 8
+        },
+        {
+          "stars": 2,
+          "count": 3
+        },
+        {
+          "stars": 1,
+          "count": 8
+        }
+      ],
+      "location_rating": 2.9,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 117,
+          "positive": 106,
+          "negative": 5,
+          "neutral": 6
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 111,
+          "positive": 100,
+          "negative": 8,
+          "neutral": 3
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 39,
+          "positive": 36,
+          "negative": 2,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms",
+        "Airport shuttle",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkI9pDI3Kawpo4oGg0vZy8xMWZuNGI0YnZ0EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI9pDI3Kawpo4oGg0vZy8xMWZuNGI0YnZ0EAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Desa Visesa Ubud",
+      "description": "Posh resort in the jungle offering grand suites & villas, plus dining, a spa & 24/7 butler service.",
+      "link": "https://visesaubud.com/",
+      "gps_coordinates": {
+        "latitude": -8.490232299999999,
+        "longitude": 115.26506239999999
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$192",
+        "extracted_lowest": 192,
+        "before_taxes_fees": "$192",
+        "extracted_before_taxes_fees": 192
+      },
+      "total_rate": {
+        "lowest": "$192",
+        "extracted_lowest": 192,
+        "before_taxes_fees": "$192",
+        "extracted_before_taxes_fees": 192
+      },
+      "nearby_places": [
+        {
+          "name": "Ubud Art Market",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "1 hr 16 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 41 min"
+            }
+          ]
+        },
+        {
+          "name": "Lumbung Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMr-xIWbnsLlSjXanw7PYbx1ur73OUORuwHot3-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMr-xIWbnsLlSjXanw7PYbx1ur73OUORuwHot3-=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOELdGiaPiF8EIBe_P788hoPr-cqRWxZd6QKcDJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOELdGiaPiF8EIBe_P788hoPr-cqRWxZd6QKcDJ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNRfKIPvgFxUEVwZOgvRrpm0waW-TZq4wNIXpW5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNRfKIPvgFxUEVwZOgvRrpm0waW-TZq4wNIXpW5=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdBT8kj0hzj_XfhTYdtS0X2ehAuNjhjeUtBcnb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPdBT8kj0hzj_XfhTYdtS0X2ehAuNjhjeUtBcnb=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcDDsG1T57Gm9qFDSotRcjHWHi5-QbudRBaAhN=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMcDDsG1T57Gm9qFDSotRcjHWHi5-QbudRBaAhN=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfVH8xJgStrYaOM3jLtsMRNniwcWl1LayVo3E_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPfVH8xJgStrYaOM3jLtsMRNniwcWl1LayVo3E_=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/bfGPSe78UUf3-8S0fOHFp2LznsQ4ZncIdqZQvCyK3iblPJbBCn6rAPNePN8z7L0T80slRkqbWjo6A3g2yiiXBAbJc1_Nin7OSep27o_wMSNxJgcqGtZMtbxq-Y6oNHtGlrdCx3qThfBAzm11CfbNOOG7mYq3Aw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/5/0/92/211/764/Premier_Suite_-_Bedroom_-_VIP__O.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdkS5ZO06V10e0geh9-UPdsVf_6Ms30ujSuCxS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMdkS5ZO06V10e0geh9-UPdsVf_6Ms30ujSuCxS=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdRO18H75WwJvJpjFf3kQrRz2ZvkPB4PZqst4K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNdRO18H75WwJvJpjFf3kQrRz2ZvkPB4PZqst4K=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 1644,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1260
+        },
+        {
+          "stars": 4,
+          "count": 266
+        },
+        {
+          "stars": 3,
+          "count": 63
+        },
+        {
+          "stars": 2,
+          "count": 21
+        },
+        {
+          "stars": 1,
+          "count": 34
+        }
+      ],
+      "location_rating": 3.5,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 74,
+          "positive": 73,
+          "negative": 0,
+          "neutral": 1
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 129,
+          "positive": 96,
+          "negative": 16,
+          "neutral": 17
+        },
+        {
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 58,
+          "positive": 33,
+          "negative": 14,
+          "neutral": 11
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 91,
+          "positive": 75,
+          "negative": 11,
+          "neutral": 5
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 393,
+          "positive": 363,
+          "negative": 12,
+          "neutral": 18
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 292,
+          "positive": 269,
+          "negative": 14,
+          "neutral": 9
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "property_token": "ChkIxoi78crX_uoPGg0vZy8xMWJ6X19ubXE3EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIxoi78crX_uoPGg0vZy8xMWJ6X19ubXE3EAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Sadara Resort",
+      "description": "Sophisticated beachfront resort with 2 restaurants, an outdoor pool & a spa, plus a pool bar.",
+      "link": "http://sadararesort.com/",
+      "gps_coordinates": {
+        "latitude": -8.7699033,
+        "longitude": 115.2223875
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$105",
+        "extracted_lowest": 105,
+        "before_taxes_fees": "$105",
+        "extracted_before_taxes_fees": 105
+      },
+      "total_rate": {
+        "lowest": "$105",
+        "extracted_lowest": 105,
+        "before_taxes_fees": "$105",
+        "extracted_before_taxes_fees": 105
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "21 min"
+            }
+          ]
+        },
+        {
+          "name": "Sukun Restaurant Nusa Dua",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/ZcQP0yJ3Ih64o4QLxc2y1SJARfWVt0H7IATRU95E8B7j8aixG-KRLIUY3R81lAkmvME-sawTz5lXc598tMsiTt-tq-2wlLeyJ3gDxXfZ4dRDLEgnlqqMs0ZxptnaL3xLzLjwAA6JnFUDOBg8o6CQ8Cyynv-bRg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/093769/093769a_hb_p_005.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLC-_6FofG9iKZoZN8F41xfGFm_4g6N0cZldZ0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMLC-_6FofG9iKZoZN8F41xfGFm_4g6N0cZldZ0=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzNQmwlTkt2YnrdFjSYY_VIxL38bLeHbEjIq5r=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOzNQmwlTkt2YnrdFjSYY_VIxL38bLeHbEjIq5r=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEgSpbOHNf2-fq7Oj9Vee7M6dvUageAkb-nRnL=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOEgSpbOHNf2-fq7Oj9Vee7M6dvUageAkb-nRnL=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/-YMpWRtYwRBaOzCPYh-f5tOMNskQ-hkQNSMTGDBfCazdrAqgKD1lfvKAfcsLTeMN3ic7-nMH4WQcublmeMTPMGXZBNVyLhvnrzGWZYPp9M_cSaYJV8Al1_7oTrdqqYwfy0R9VzEaf0_fvzBK1XKLh2iBnod-KIs=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/093769/093769a_hb_r_014.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPSet7dIULdT8aen5ioZxoYnqsxXlST7gI59tGk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPSet7dIULdT8aen5ioZxoYnqsxXlST7gI59tGk=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPk_nEdQciIvU4gVoPFYChKh-kkqvWzUVGG9-yR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPk_nEdQciIvU4gVoPFYChKh-kkqvWzUVGG9-yR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQVU0LEnsKO_p1vPDnSrw-L9jkhudfaJfmIflr=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNQVU0LEnsKO_p1vPDnSrw-L9jkhudfaJfmIflr=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-ReF66bssPJUXQDlQ1mQ8zmqjFitQZsHGMDaG=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN-ReF66bssPJUXQDlQ1mQ8zmqjFitQZsHGMDaG=s10000"
+        }
+      ],
+      "overall_rating": 4.5,
+      "reviews": 1841,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 1180
+        },
+        {
+          "stars": 4,
+          "count": 451
+        },
+        {
+          "stars": 3,
+          "count": 127
+        },
+        {
+          "stars": 2,
+          "count": 32
+        },
+        {
+          "stars": 1,
+          "count": 51
+        }
+      ],
+      "location_rating": 4.1,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 266,
+          "positive": 193,
+          "negative": 35,
+          "neutral": 38
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 178,
+          "positive": 137,
+          "negative": 22,
+          "neutral": 19
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 380,
+          "positive": 310,
+          "negative": 43,
+          "neutral": 27
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 293,
+          "positive": 248,
+          "negative": 30,
+          "neutral": 15
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 168,
+          "positive": 132,
+          "negative": 19,
+          "neutral": 17
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 138,
+          "positive": 103,
+          "negative": 18,
+          "neutral": 17
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "property_token": "ChkI7oXlifLEovLDARoML2cvMTJobXgydzlyEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI7oXlifLEovLDARoML2cvMTJobXgydzlyEAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "The St. Regis Bali Resort",
+      "description": "Plush suites & villas in a ritzy retreat with a private beach, a swimming lagoon & posh dining.",
+      "link": "https://www.marriott.com/en-us/hotels/dpsxr-the-st-regis-bali-resort/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "gps_coordinates": {
+        "latitude": -8.8128275,
+        "longitude": 115.22647719999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$708",
+        "extracted_lowest": 708,
+        "before_taxes_fees": "$708",
+        "extracted_before_taxes_fees": 708
+      },
+      "total_rate": {
+        "lowest": "$708",
+        "extracted_lowest": 708,
+        "before_taxes_fees": "$708",
+        "extracted_before_taxes_fees": 708
+      },
+      "nearby_places": [
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "20 min"
+            }
+          ]
+        },
+        {
+          "name": "Warung makan mami ratu",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOMX30F-xY0GFUyGP2oGHOBkZkgQ4BTFWepQHVn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOMX30F-xY0GFUyGP2oGHOBkZkgQ4BTFWepQHVn=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPRdxP4qbrxw6N9xwFUbpJ-wSD_Nf_gkbZ4OIEu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPRdxP4qbrxw6N9xwFUbpJ-wSD_Nf_gkbZ4OIEu=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/FdeCGiGzCUC4fMZsDrHbyajzDdsyKwPzqvxqWhLqy-CpG1RlPK8pM4ZvxtKYQkYSJE7eEpN0tjqR7Wdtnd4s05kYijhbgGPPFX5t4FqqOZ1ygbgvR3coXunhQM10Ejhmhh1zVEYJB7tDAQUy2_E93Zfu_QeXCg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096367/096367a_hb_ro_106.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObNQxwe4AOJ4B01Ab_e7xNDP_9mxXTuVsNuBLB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipObNQxwe4AOJ4B01Ab_e7xNDP_9mxXTuVsNuBLB=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKpmunJzlNTeyTQOCZGaykCjYcT1O6kHz6A_EV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMKpmunJzlNTeyTQOCZGaykCjYcT1O6kHz6A_EV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUPG1ZeaxLxGZKNb01K54BnMzikI_5mBScIikp=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPUPG1ZeaxLxGZKNb01K54BnMzikI_5mBScIikp=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/gyP6JHaCo2_xWTc0lIcHTqkz-jAwnmykzOjEKu3dbNn_iFofKOBObJKeBdRp3rLIucJszRAefNKl0UhexsRSCzNXqN8U_2G_ze_OlrSSnrV5h9cnILFJmK_hIvav8IvKQ3Nrlx3D24ewhGzP7bf-HVsdZkRbaIA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096367/096367a_hb_f_016.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/8o7eMgXTOSYEBu2Ux7i7v4frUtN2brz35nrfP-pQiWcRVZ6nThIfXTREb7qPXHttouX_5U9tq63-xoGa_jYROPkquTtPRiDZkjYXs4j6vrq23tSZHnl0egpFLzyPkesW2nj6Xk9BDM0KqS2J37Sj8OmWfFxGG9U=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/09/096367/096367a_hb_s_007.JPG"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVvFHuj0Pfmo93-mCzvomK1R7zoPokGhTqNjUf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOVvFHuj0Pfmo93-mCzvomK1R7zoPokGhTqNjUf=s10000"
+        }
+      ],
+      "overall_rating": 4.8,
+      "reviews": 2500,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 2190
+        },
+        {
+          "stars": 4,
+          "count": 189
+        },
+        {
+          "stars": 3,
+          "count": 44
+        },
+        {
+          "stars": 2,
+          "count": 21
+        },
+        {
+          "stars": 1,
+          "count": 56
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 186,
+          "positive": 171,
+          "negative": 6,
+          "neutral": 9
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 387,
+          "positive": 354,
+          "negative": 22,
+          "neutral": 11
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 412,
+          "positive": 390,
+          "negative": 9,
+          "neutral": 13
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 131,
+          "positive": 105,
+          "negative": 9,
+          "neutral": 17
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 115,
+          "positive": 102,
+          "negative": 3,
+          "neutral": 10
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 125,
+          "positive": 105,
+          "negative": 13,
+          "neutral": 7
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in rooms",
+        "Airport shuttle",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "eco_certified": true,
+      "property_token": "ChYIoeT-jsbDiJI6GgovbS8wajYzcXAwEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChYIoeT-jsbDiJI6GgovbS8wajYzcXAwEAE&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Discovery Kartika Plaza Hotel",
+      "description": "Chic oceanfront hotel featuring 3 restaurants & 4 bars, plus a pool, a spa & tennis/squash courts.",
+      "link": "https://www.discoverykartikaplaza.com/",
+      "gps_coordinates": {
+        "latitude": -8.729564100000001,
+        "longitude": 115.1658425
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$119",
+        "extracted_lowest": 119,
+        "before_taxes_fees": "$119",
+        "extracted_before_taxes_fees": 119
+      },
+      "total_rate": {
+        "lowest": "$119",
+        "extracted_lowest": 119,
+        "before_taxes_fees": "$119",
+        "extracted_before_taxes_fees": 119
+      },
+      "nearby_places": [
+        {
+          "name": "Waterbom Bali",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "12 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "34 min"
+            }
+          ]
+        },
+        {
+          "name": "Sunset Lounge Restaurant",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFj3fttX10fHChfvkkMZj58-zFd8eNdgCju1ec=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPFj3fttX10fHChfvkkMZj58-zFd8eNdgCju1ec=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_1s6BTTB8DXHi8eSXvFJcT8ngm0-SitM3qHY5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO_1s6BTTB8DXHi8eSXvFJcT8ngm0-SitM3qHY5=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/R5gt4G6zZ8Z6l0AS09l6sZ9cnyQmCOvj4Zg9OV3AsEGZcACGc33LphExBysqgG8hUDZWaES1WtkfPgXVkPqO5nBl82aSivulIKoWVSVIzatEg_5yguUivZT_SKDTyMsR1iIhwpus96vUAV7Fa4KeBPF3MYJSjQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/07/071865/071865a_hb_ro_019.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNP_wDmguKAdQEbDTX2lK-5aBvVhjyM9DgOKzPm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNP_wDmguKAdQEbDTX2lK-5aBvVhjyM9DgOKzPm=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZOW1pwW2R42OnMDp0hzzqY4olBY5xIqGGaAxW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZOW1pwW2R42OnMDp0hzzqY4olBY5xIqGGaAxW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQIAmqBAtVR6yoi4DYhIxQ8jGhz_8CoMlz3hLX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMQIAmqBAtVR6yoi4DYhIxQ8jGhz_8CoMlz3hLX=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNeK0l9O501zQrHHwGt6jhXXNxd3iahfIG-wfJS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNeK0l9O501zQrHHwGt6jhXXNxd3iahfIG-wfJS=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/YxIl-G2IJ3nOhmNWqZ65AAQP_Z84s_-d7zMJposYn1fuDAO4lLwT6BzETn295kjIGAAl2tes6sF9IEnFxoXkHpXEKYiMRcs_FJisK4VIVmByMIofJigbF99LTDEUgD-DP1J1h1yGNuwW866ArK48PWte3tLgtQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/d4/a4/d4a467aab7b1861da9ce5bc87fd5f3773b270962.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsf_TujtcFoyiIvdV0mBlb_lzZNptE1IQTKzVd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPsf_TujtcFoyiIvdV0mBlb_lzZNptE1IQTKzVd=s10000"
+        }
+      ],
+      "overall_rating": 4.4,
+      "reviews": 4885,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 3291
+        },
+        {
+          "stars": 4,
+          "count": 965
+        },
+        {
+          "stars": 3,
+          "count": 337
+        },
+        {
+          "stars": 2,
+          "count": 96
+        },
+        {
+          "stars": 1,
+          "count": 196
+        }
+      ],
+      "location_rating": 4.4,
+      "reviews_breakdown": [
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 531,
+          "positive": 466,
+          "negative": 18,
+          "neutral": 47
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 820,
+          "positive": 656,
+          "negative": 107,
+          "neutral": 57
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 362,
+          "positive": 293,
+          "negative": 37,
+          "neutral": 32
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 301,
+          "positive": 239,
+          "negative": 42,
+          "neutral": 20
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 565,
+          "positive": 459,
+          "negative": 74,
+          "neutral": 32
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 496,
+          "positive": 427,
+          "negative": 20,
+          "neutral": 49
+        }
+      ],
+      "amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Spa",
+        "Beach access",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Golf",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "property_token": "ChgIsurR9c7TuMpUGgwvZy8xaGMxOV92aHAQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIsurR9c7TuMpUGgwvZy8xaGMxOV92aHAQAQ&q=Bali+Resorts"
+    },
+    {
+      "type": "hotel",
+      "name": "Kelapa Retreat & Spa",
+      "description": "Stylish seaside resort with sleek villas & an outdoor pool, plus dining, a spa & a beach.",
+      "link": "https://www.kelaparetreat.com/",
+      "gps_coordinates": {
+        "latitude": -8.434465399999999,
+        "longitude": 114.8304443
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$199",
+        "extracted_lowest": 199,
+        "before_taxes_fees": "$199",
+        "extracted_before_taxes_fees": 199
+      },
+      "total_rate": {
+        "lowest": "$199",
+        "extracted_lowest": 199,
+        "before_taxes_fees": "$199",
+        "extracted_before_taxes_fees": 199
+      },
+      "nearby_places": [
+        {
+          "name": "Medewi Beach",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "I Gusti Ngurah Rai International Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "2 hr 27 min"
+            }
+          ]
+        },
+        {
+          "name": "Pantai Galuh",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "5-star hotel",
+      "extracted_hotel_class": 5,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/NsdHwo3TM42cfSi1V0REE455w-cQhCwNsZo01AOe2sdYyOsXXg_-VF1h9wObFDKrTsvaDRaqefnOVmCB4efGQZj6DcdZeFnW7-SgizIzUPj4UeQ-kH_wAAmPpoDPhwyoZyErrbu1XS1RJ2OiOm2dqGjePC2GUw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4d/4d/58/unique-infinity-pool.jpg?w=1300&h=900&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYJDkqBlf7zsXM7tmAggzBYimZaR5d2RBgT0w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPYJDkqBlf7zsXM7tmAggzBYimZaR5d2RBgT0w=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/Zs0I8zD_yhVyh9ZKw23_CQJOgGQ_RL10lb44FJvUIrz24wbU5aN_v_jwn8Dm8IQAZu03jKDdhuwxqXGlwrJ3m4x8-T9uLmLCFKeHYXF0r6wANIOQKNvEBIjUwD1p7nhxrRSgiIx3NdUi_dC0OtcZYHniNEtNow=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/14/141282/141282a_hb_w_004.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMb21peCnofF1II2P5-suwiyWQnYOWJpiU-srg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMb21peCnofF1II2P5-suwiyWQnYOWJpiU-srg=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPrz8DM0zLti5Z4tfWrCZM0Qm28MyKgHIeJFk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOPrz8DM0zLti5Z4tfWrCZM0Qm28MyKgHIeJFk=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQJLWBm8IDjKOsZExvaGLZZmL5noeVTWZwgFI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMQJLWBm8IDjKOsZExvaGLZZmL5noeVTWZwgFI=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLBtlBKtfsZ8W6bt1q0rPUjbVbs7JWwD-GpeY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOLBtlBKtfsZ8W6bt1q0rPUjbVbs7JWwD-GpeY=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMaOEMu2k01NgH-KsWLruNmoVRBmFsQfWbnF4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMMaOEMu2k01NgH-KsWLruNmoVRBmFsQfWbnF4=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEY5a_LP4ymQ7BQ7xYPbv72DZToRhg6pKZTu8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOEY5a_LP4ymQ7BQ7xYPbv72DZToRhg6pKZTu8=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 240,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 205
+        },
+        {
+          "stars": 4,
+          "count": 25
+        },
+        {
+          "stars": 3,
+          "count": 1
+        },
+        {
+          "stars": 2,
+          "count": 2
+        },
+        {
+          "stars": 1,
+          "count": 7
+        }
+      ],
+      "location_rating": 2.5,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 72,
+          "positive": 67,
+          "negative": 2,
+          "neutral": 3
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 65,
+          "positive": 60,
+          "negative": 3,
+          "neutral": 2
+        },
+        {
+          "name": "Nature",
+          "description": "Nature and outdoor activities",
+          "total_mentioned": 72,
+          "positive": 65,
+          "negative": 2,
+          "neutral": 5
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Spa",
+        "Beach access",
+        "Restaurant",
+        "Room service",
+        "Airport shuttle",
+        "Full-service laundry",
+        "Child-friendly"
+      ],
+      "property_token": "ChgI5_Sr7ZGXqZbrARoLL2cvMXY0bHpqNzcQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgI5_Sr7ZGXqZbrARoLL2cvMXY0bHpqNzcQAQ&q=Bali+Resorts"
+    }
+  ],
+  "serpapi_pagination": {
+    "current_from": 1,
+    "current_to": 20,
+    "next_page_token": "CBI=",
+    "next": "https://serpapi.com/search.json?adults=2&check_in_date=2024-06-13&check_out_date=2024-06-14&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&next_page_token=CBI%3D&q=Bali+Resorts"
+  }
+}
