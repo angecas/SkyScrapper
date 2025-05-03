@@ -11,10 +11,11 @@ import Foundation
 
 // MARK: - GoogleFlight
 struct FlightsModel: Codable {
-    let searchMetadata: SearchFlightMetadata
-    let searchParameters: SearchFlightParameters
-    let bestFlights, otherFlights: [Flight]
-    let priceInsights: PriceInsights
+    let searchMetadata: SearchFlightMetadata?
+    let searchParameters: SearchFlightParameters?
+    let bestFlights, otherFlights: [Flight]?
+    let priceInsights: PriceInsights?
+    let airports: [AirportModel]?
 
     enum CodingKeys: String, CodingKey {
         case searchMetadata = "search_metadata"
@@ -22,6 +23,7 @@ struct FlightsModel: Codable {
         case bestFlights = "best_flights"
         case otherFlights = "other_flights"
         case priceInsights = "price_insights"
+        case airports = "airports"
     }
 }
 
@@ -126,13 +128,13 @@ struct PriceInsights: Codable {
 
 // MARK: - SearchMetadata
 struct SearchFlightMetadata: Codable {
-    let id, status: String
-    let jsonEndpoint: String
-    let createdAt, processedAt: String
-    let googleFlightsURL: String
-    let rawHTMLFile: String
-    let prettifyHTMLFile: String
-    let totalTimeTaken: Double
+    let id, status: String?
+    let jsonEndpoint: String?
+    let createdAt, processedAt: String?
+    let googleFlightsURL: String?
+    let rawHTMLFile: String?
+    let prettifyHTMLFile: String?
+    let totalTimeTaken: Double?
 
     enum CodingKeys: String, CodingKey {
         case id, status
@@ -148,8 +150,8 @@ struct SearchFlightMetadata: Codable {
 
 // MARK: - SearchParameters
 struct SearchFlightParameters: Codable {
-    let engine, hl, gl, departureID: String
-    let arrivalID, outboundDate, returnDate: String
+    let engine, hl, gl, departureID: String?
+    let arrivalID, outboundDate, returnDate: String?
 
     enum CodingKeys: String, CodingKey {
         case engine, hl, gl
@@ -158,4 +160,23 @@ struct SearchFlightParameters: Codable {
         case outboundDate = "outbound_date"
         case returnDate = "return_date"
     }
+}
+
+struct AirportModel: Codable {
+    let departure: [AirportDetails]?
+    let arrival: [AirportDetails]?
+}
+
+struct AirportDetails: Codable {
+    let airport: AirportInfoModel?
+    let city: String?
+    let country: String?
+    let countryCode: String?
+    let image: String?
+    let thumbnail: String?
+}
+
+struct AirportInfoModel: Codable {
+    let id: String?
+    let name: String?
 }

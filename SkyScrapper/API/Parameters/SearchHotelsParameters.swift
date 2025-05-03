@@ -51,7 +51,7 @@ struct SearchHotelsParameters {
                 dict["currency"] = currency
             }
             if let adults = adults {
-                dict["adults"] = currency
+                dict["adults"] = adults
             }
             
             if let children = children {
@@ -79,7 +79,7 @@ struct SearchHotelsParameters {
                 dict["rating"] = rating
             }
             if let brands = brands {
-                dict["brands"] = rating
+                dict["brands"] = brands
             }
             if let hotelClass = hotelClass {
                 dict["hotel_class"] = hotelClass

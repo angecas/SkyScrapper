@@ -10,25 +10,30 @@ import UIKit
 
 class AppCoordinator: Coordinator {
     var navigationController: UINavigationController
-    
-    var childCoordinator: [Coordinator] = []
-    
-    var type: CoordinatorType = .app
-    
+    var childCoordinators: [any Coordinator] = []
     var finishDelegate: CoordinatorFinishDelegate?
-    
+    var type: CoordinatorType { .app }
+
     init(navigationController: UINavigationController) {
         self.navigationController = navigationController
     }
-    
+
     func start() {
-        showMainScreen()
+        showMainFlow()
     }
-    
-    func showMainScreen() {
-        //TODO: Show mainscreen
+
+    private func showMainFlow() {
+        let tabBarCoordinator = TabBarCoordinator(navigationController: navigationController)
+        tabBarCoordinator.finishDelegate = self
+        childCoordinators.append(tabBarCoordinator)
         
-        let viewController = HomeViewController()
-        navigationController.pushViewController(viewController, animated: true)
+        tabBarCoordinator.start()
+    }
+}
+
+extension AppCoordinator: CoordinatorFinishDelegate {
+    func coordinatorDidFinish(_ coordinator: Coordinator) {
+        // Remove the finished child coordinator
+        childCoordinators.removeAll { $0 === coordinator }
     }
 }

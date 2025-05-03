@@ -13,7 +13,7 @@ enum DataType {
 }
 
 protocol SerpApiManagerProtocol {
-    func searchFlightsRequest(parameters: SearchFlightsParameters) async -> FlightData
+    func searchFlightsRequest(parameters: SearchFlightsParameters) async -> FlightData?
     func searchHotelsRequest(parameters: SearchHotelsParameters) async -> HotelData
 }
 
@@ -21,6 +21,7 @@ typealias FlightData = (data: FlightsModel?, error: NetworkError?)
 typealias HotelData = (data: HotelsModel?, error: NetworkError?)
 
 final class SerpApiManager: SerpApiManagerProtocol {
+    
     @Published var callError: String = String()
     private var networkService: Networkable
     
@@ -28,17 +29,17 @@ final class SerpApiManager: SerpApiManagerProtocol {
         self.networkService = networkService
     }
     
-    func searchFlightsRequest(parameters: SearchFlightsParameters) async -> FlightData {
+    func searchFlightsRequest(parameters: SearchFlightsParameters) async -> FlightData? {
+        
         do {
             let flights = try await networkService.sendRequest(endpoint: SerpApi.searchFlights(parameters: parameters)) as FlightsModel
             return FlightData(data: flights, error: nil)
         } catch {
-            guard let error = error as? NetworkError else {
-                return FlightData(data: nil, error: nil)
-            }
-            return FlightData(data: nil, error: error)
-
+            print(error)
+            print(error.localizedDescription)
         }
+        
+        return nil
     }
 
     func searchHotelsRequest(parameters: SearchHotelsParameters) async -> HotelData {

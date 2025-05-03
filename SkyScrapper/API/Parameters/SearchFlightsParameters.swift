@@ -13,11 +13,13 @@ struct SearchFlightsParameters {
     var hl: String?
     var currency: String?
 
-    var departureId: String
-    var arrivalId: String
+    var departureId: String?
+    var arrivalId: String?
     var type: String?
-    var outboundDate: String
+    var outboundDate: String?
     var returnDate: String?
+    var outboundDateInt: Double?
+    var returnDateInt: Double?
     var travelClass: String?
     var showHidden: String?
     var adults: String?

@@ -39,8 +39,6 @@ extension SerpApi: EndPoint {
             return parameters.toDictionary()
         case .searchHotels(let parameters):
             return parameters.toDictionary()
-        default:
-            return nil
         }
     }
     
