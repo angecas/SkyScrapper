@@ -18,6 +18,8 @@ class CalendarViewController: UIViewController {
     private var cancellables = Set<AnyCancellable>()
     private let dateLimit: Int
     private var multiSelect: UICalendarSelectionMultiDate?
+    var calendarToKeyboardConstraint: NSLayoutConstraint!
+    var calendarToBottomConstraint: NSLayoutConstraint!
 
     var selectionDates: [Date?] = []
     
@@ -49,7 +51,7 @@ class CalendarViewController: UIViewController {
     private lazy var dateField: UITextField = {
         let textField = UITextField()
         textField.font = UIFont(name: "AmericanTypewriter", size: 14)
-        textField.placeholder = "Departure (dd/mm/yyyy)"
+        textField.placeholder = "Departure"
         textField.adjustsFontSizeToFitWidth = true
         textField.borderStyle = .roundedRect
         textField.delegate = self
@@ -68,7 +70,7 @@ class CalendarViewController: UIViewController {
     
     private lazy var secondDateField: UITextField = {
         let textField = UITextField()
-        textField.placeholder = "Return (dd/mm/yy)"
+        textField.placeholder = "Return"
         textField.adjustsFontSizeToFitWidth = true
         textField.font = UIFont(name: "AmericanTypewriter", size: 14)
         textField.borderStyle = .roundedRect
@@ -93,6 +95,9 @@ class CalendarViewController: UIViewController {
         view.addSubview(dateField)
         view.addSubview(secondDateField)
                 
+        calendarToKeyboardConstraint = calendarView.bottomAnchor.constraint(equalTo: view.keyboardLayoutGuide.topAnchor)
+        calendarToBottomConstraint = calendarView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor)
+
         NSLayoutConstraint.activate([
             dateField.topAnchor.constraint(equalTo: view.topAnchor, constant: 24),
             dateField.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 16),
@@ -107,7 +112,7 @@ class CalendarViewController: UIViewController {
             calendarView.topAnchor.constraint(equalTo: dateField.bottomAnchor),
             calendarView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             calendarView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-            calendarView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor),
+            calendarToBottomConstraint,
         ])
     }
     
@@ -135,6 +140,8 @@ class CalendarViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillShow), name: UIResponder.keyboardWillShowNotification, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: UIResponder.keyboardWillHideNotification, object: nil)
         setupLayout()
     }
     
@@ -146,7 +153,7 @@ class CalendarViewController: UIViewController {
             }
         }
 
-        if selectionDates.count > 2 {
+        if selectionDates.count > dateLimit {
             selectionDates.remove(at: 1)
         }
 
@@ -176,6 +183,21 @@ class CalendarViewController: UIViewController {
         let touchLocation = gesture.location(in: view)
         if !(dateField.frame.contains(touchLocation) || secondDateField.frame.contains(touchLocation)) {
             dismissKeyboard()
+        }
+    }
+    @objc func keyboardWillShow(_ notification: Notification) {
+        calendarToBottomConstraint.isActive = false
+        calendarToKeyboardConstraint.isActive = true
+        UIView.animate(withDuration: 0.3) {
+            self.view.layoutIfNeeded()
+        }
+    }
+
+    @objc func keyboardWillHide(_ notification: Notification) {
+        calendarToKeyboardConstraint.isActive = false
+        calendarToBottomConstraint.isActive = true
+        UIView.animate(withDuration: 0.3) {
+            self.view.layoutIfNeeded()
         }
     }
 }
@@ -210,30 +232,79 @@ extension CalendarViewController: UICalendarSelectionMultiDateDelegate {
 extension CalendarViewController: UITextFieldDelegate {
     
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
-        let currentText = textField.text ?? ""
+        guard let currentText = textField.text else { return true }
+
         let newText = (currentText as NSString).replacingCharacters(in: range, with: string)
 
-        if let formatted = newText.formattedAsDateInput() {
-            textField.text = formatted
+        let digitsOnly = newText.replacingOccurrences(of: "[^0-9]", with: "", options: .regularExpression)
+
+        let limited = String(digitsOnly.prefix(8))
+
+        var formatted = ""
+        var cursorOffset = 0
+        for (index, char) in limited.enumerated() {
+            if index == 2 || index == 4 {
+                formatted.append("/")
+                if range.location >= index {
+                    cursorOffset += 1
+                }
+            }
+            formatted.append(char)
         }
 
+        textField.text = formatted
+
+        if let startPosition = textField.position(from: textField.beginningOfDocument, offset: range.location + string.count + cursorOffset),
+           let textRange = textField.textRange(from: startPosition, to: startPosition) {
+            textField.selectedTextRange = textRange
+        }
         return false
+    }
+
+    
+//    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+//        let currentText = textField.text ?? ""
+//        let newText = (currentText as NSString).replacingCharacters(in: range, with: string)
+//        
+//        guard let formatted = newText.formattedAsDateInput() else { return false }
+//
+//        let beginning = textField.beginningOfDocument
+//        if let _ = textField.position(from: beginning, offset: range.location + string.count) {
+//            textField.text = formatted
+//
+//            let offset = min(formatted.count, range.location + string.count)
+//            if let newPosition = textField.position(from: beginning, offset: offset) {
+//                textField.selectedTextRange = textField.textRange(from: newPosition, to: newPosition)
+//            }
+//        }
+//        return false
+//    }
+        
+    func textFieldDidBeginEditing(_ textField: UITextField) {
+        textField.attributedPlaceholder = NSAttributedString(
+            string: "dd/mm/yyyy",
+            attributes: [
+                NSAttributedString.Key.foregroundColor: UIColor.black.withAlphaComponent(0.5),
+                         .font: UIFont.systemFont(ofSize: 14)
+            ]        )
     }
     
     func textFieldShouldEndEditing(_ textField: UITextField) -> Bool {
-        
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "dd/MM/yyyy"
         dateFormatter.timeZone = TimeZone.current
         dateFormatter.locale = Locale.current
-        
-        guard let text = textField.text, let finalDate = dateFormatter.date(from: text) else { return true }
-                
-        calendarView.visibleDateComponents = Calendar.current.dateComponents([.year, .month, .day], from: finalDate)
-        
-        let dateComponents = Calendar.current.dateComponents([.year, .month, .day], from: finalDate)
-        updateMultiSelect([dateComponents])
-        
+        let date = dateFormatter.date(from: textField.text ?? "")
+
+
+        if let date = date, date > Date() && !selectionDates.contains(date) {
+            calendarView.visibleDateComponents = Calendar.current.dateComponents([.year, .month, .day], from: date)
+            
+            let dateComponents = Calendar.current.dateComponents([.year, .month, .day], from: date)
+            updateMultiSelect([dateComponents])
+        } else {
+            textField.text = nil
+        }
         return true
     }
 }

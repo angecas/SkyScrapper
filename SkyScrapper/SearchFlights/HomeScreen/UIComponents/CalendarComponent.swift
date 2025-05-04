@@ -11,7 +11,8 @@ import Combine
 class CalendarComponentViewController: UIViewController {
     @Published var selectedDates: [Date?] = []
     private var cancellables = Set<AnyCancellable>()
-    private let vc = CalendarViewController(dateLimit: 2)
+    private let dateLimit: Int
+    private let vc: CalendarViewController
 
     private lazy var whenToLabel: UILabel = {
         let label = UILabel()
@@ -74,7 +75,17 @@ class CalendarComponentViewController: UIViewController {
         calendarImageView.translatesAutoresizingMaskIntoConstraints = false
         return calendarImageView
     }()
-        
+    
+    init() {
+        self.dateLimit = 2
+        self.vc = CalendarViewController(dateLimit: 2)
+        super.init(nibName: nil, bundle: nil)
+    }
+    
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -86,9 +97,13 @@ class CalendarComponentViewController: UIViewController {
                 let nonNilDates = dates.compactMap { $0 }
                 guard nonNilDates.count > 0 else { return }
 
-                let orderedDates = nonNilDates.sorted()
+                var orderedDates = nonNilDates.sorted()
                 let dateFormatter = DateFormatter()
                 dateFormatter.dateFormat = "dd/MM/yyyy"
+                
+                if dates.count > self?.dateLimit ?? 0 {
+                    orderedDates.remove(at: 1)
+                }
 
                 if let leavingDate = orderedDates.first {
                     self?.leavingTextField.text = dateFormatter.string(from: leavingDate)
@@ -99,6 +114,7 @@ class CalendarComponentViewController: UIViewController {
                 } else {
                     self?.returnTextField.text = nil
                 }
+                print(dates.count, "----")
                 self?.vc.selectionDates = dates
             }
             .store(in: &cancellables)
@@ -164,6 +180,8 @@ class CalendarComponentViewController: UIViewController {
         let touchLocation = gesture.location(in: view)
         if !(leavingTextField.frame.contains(touchLocation) || returnTextField.frame.contains(touchLocation)) {
             dismissKeyboard()
+            leavingTextField.resignFirstResponder()
+            returnTextField.resignFirstResponder()
         }
     }
 }
@@ -171,13 +189,32 @@ class CalendarComponentViewController: UIViewController {
 extension CalendarComponentViewController: UITextFieldDelegate {
     
     func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
-        let currentText = textField.text ?? ""
+        guard let currentText = textField.text else { return true }
+
         let newText = (currentText as NSString).replacingCharacters(in: range, with: string)
 
-        if let formatted = newText.formattedAsDateInput() {
-            textField.text = formatted
+        let digitsOnly = newText.replacingOccurrences(of: "[^0-9]", with: "", options: .regularExpression)
+
+        let limited = String(digitsOnly.prefix(8))
+
+        var formatted = ""
+        var cursorOffset = 0
+        for (index, char) in limited.enumerated() {
+            if index == 2 || index == 4 {
+                formatted.append("/")
+                if range.location >= index {
+                    cursorOffset += 1
+                }
+            }
+            formatted.append(char)
         }
 
+        textField.text = formatted
+
+        if let startPosition = textField.position(from: textField.beginningOfDocument, offset: range.location + string.count + cursorOffset),
+           let textRange = textField.textRange(from: startPosition, to: startPosition) {
+            textField.selectedTextRange = textRange
+        }
         return false
     }
 
@@ -201,15 +238,20 @@ extension CalendarComponentViewController: UITextFieldDelegate {
         
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "dd/MM/yyyy"
-        dateFormatter.timeZone = TimeZone.current
         dateFormatter.locale = Locale.current
-        
-        guard let text = textField.text, let finalDate = dateFormatter.date(from: text) else { return true }
-        
-        selectedDates.append(finalDate)
+        dateFormatter.timeZone = TimeZone.current
+        let date = dateFormatter.date(from: textField.text ?? "")
+
+        if let date = date, date > Date() && !selectedDates.contains(date) {
+            selectedDates.append(date)
+        } else {
+            textField.text = nil
+        }
         return true
     }
 }
+
+
 
 extension CalendarComponentViewController: CalendarViewControllerDelegate {
     func viewController(_ controller: CalendarViewController, didSelectDates dates: [Date?]) {
